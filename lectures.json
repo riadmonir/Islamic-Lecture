@@ -768,10 +768,148 @@
           "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/dr_zakir_naik/bisshoshanti_o_islam.mp3"
         }
       ]
+    },
+    {
+      "id": "abu_toha_adnan",
+      "folder": "abu_toha_adnan",
+      "name": {
+        "bn": "আবু ত্বহা মুহাম্মদ আদনান",
+        "en": "Abu Toha Muhammad Adnan"
+      },
+      "name_bn": "আবু ত্বহা মুহাম্মদ আদনান",
+      "name_en": "Abu Toha Muhammad Adnan",
+      "designation_bn": "বিশিষ্ট তরুণ ইসলামিক আলোচক ও দা'ঈ",
+      "designation_en": "Renowned Islamic Speaker & Da'ee",
+      "image_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/abu_toha_adnan/author_thumb.jpg",
+      "total_lectures": 4,
+      "lectures": [
+        {
+          "id": "ata_001",
+          "title": {
+            "bn": "জান্নাতের জন্য পাগল হওয়া এক আনসারী সাহাবার ঘটনা",
+            "en": "The Story of an Ansari Sahabi Who Yearned for Paradise"
+          },
+          "title_bn": "জান্নাতের জন্য পাগল হওয়া এক আনসারী সাহাবার ঘটনা",
+          "title_en": "The Story of an Ansari Sahabi Who Yearned for Paradise",
+          "author_name": {
+            "bn": "আবু ত্বহা মুহাম্মদ আদনান",
+            "en": "Abu Toha Muhammad Adnan"
+          },
+          "author_name_bn": "আবু ত্বহা মুহাম্মদ আদনান",
+          "author_name_en": "Abu Toha Muhammad Adnan",
+          "category": {
+            "bn": "আবু ত্বহা মুহাম্মদ আদনান",
+            "en": "Abu Toha Muhammad Adnan"
+          },
+          "category_bn": "আবু ত্বহা মুহাম্মদ আদনান",
+          "category_en": "Abu Toha Muhammad Adnan",
+          "category_id": "abu_toha_adnan",
+          "topic_bn": "সাহাবাদের ঈমানী জিন্দেগী ও জান্নাতের আকাঙ্ক্ষা",
+          "topic_en": "Faith of the Sahabah & Yearning for Paradise",
+          "duration": "19:12",
+          "duration_seconds": 1152,
+          "file_name": "jannater_jonno_pagol_howa_ek_ansari_sahabar_ghotona.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/abu_toha_adnan/jannater_jonno_pagol_howa_ek_ansari_sahabar_ghotona.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/abu_toha_adnan/jannater_jonno_pagol_howa_ek_ansari_sahabar_ghotona.mp3",
+          "size_bytes": 16269890,
+          "size_formatted": "15.52 MB",
+          "file_available": true
+        },
+        {
+          "id": "ata_002",
+          "title": {
+            "bn": "বর্তমান ফেতনার যুগ ও ঈমান রক্ষার মোক্ষম উপায়",
+            "en": "The Age of Fitnah and Protecting Our Faith"
+          },
+          "title_bn": "বর্তমান ফেতনার যুগ ও ঈমান রক্ষার মোক্ষম উপায়",
+          "title_en": "The Age of Fitnah and Protecting Our Faith",
+          "author_name": {
+            "bn": "আবু ত্বহা মুহাম্মদ আদনান",
+            "en": "Abu Toha Muhammad Adnan"
+          },
+          "author_name_bn": "আবু ত্বহা মুহাম্মদ আদনান",
+          "author_name_en": "Abu Toha Muhammad Adnan",
+          "category": {
+            "bn": "আবু ত্বহা মুহাম্মদ আদনান",
+            "en": "Abu Toha Muhammad Adnan"
+          },
+          "category_bn": "আবু ত্বহা মুহাম্মদ আদনান",
+          "category_en": "Abu Toha Muhammad Adnan",
+          "category_id": "abu_toha_adnan",
+          "topic_bn": "আখিরুয জামান ও ঈমান সংরক্ষণ",
+          "topic_en": "End Times & Preserving Faith",
+          "duration": "34:20",
+          "duration_seconds": 2060,
+          "file_name": "fitnar_jug_o_iman_rokkhya.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/abu_toha_adnan/fitnar_jug_o_iman_rokkhya.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/abu_toha_adnan/fitnar_jug_o_iman_rokkhya.mp3",
+          "file_available": false
+        },
+        {
+          "id": "ata_003",
+          "title": {
+            "bn": "শেষ জামানার দাজ্জাল ও কিয়ামতের পূর্বপ্রস্তুতি",
+            "en": "Dajjal and Signs of the End Times"
+          },
+          "title_bn": "শেষ জামানার দাজ্জাল ও কিয়ামতের পূর্বপ্রস্তুতি",
+          "title_en": "Dajjal and Signs of the End Times",
+          "author_name": {
+            "bn": "আবু ত্বহা মুহাম্মদ আদনান",
+            "en": "Abu Toha Muhammad Adnan"
+          },
+          "author_name_bn": "আবু ত্বহা মুহাম্মদ আদনান",
+          "author_name_en": "Abu Toha Muhammad Adnan",
+          "category": {
+            "bn": "আবু ত্বহা মুহাম্মদ আদনান",
+            "en": "Abu Toha Muhammad Adnan"
+          },
+          "category_bn": "আবু ত্বহা মুহাম্মদ আদনান",
+          "category_en": "Abu Toha Muhammad Adnan",
+          "category_id": "abu_toha_adnan",
+          "topic_bn": "দাজ্জাল ও কিয়ামত",
+          "topic_en": "Dajjal & Qiyamah",
+          "duration": "42:15",
+          "duration_seconds": 2535,
+          "file_name": "shesh_jamanar_dajjal_o_qiyamat.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/abu_toha_adnan/shesh_jamanar_dajjal_o_qiyamat.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/abu_toha_adnan/shesh_jamanar_dajjal_o_qiyamat.mp3",
+          "file_available": false
+        },
+        {
+          "id": "ata_004",
+          "title": {
+            "bn": "যুবসমাজের তওবা ও জীবনের মোড় পরিবর্তন",
+            "en": "Repentance of Youth and Turning Point of Life"
+          },
+          "title_bn": "যুবসমাজের তওবা ও জীবনের মোড় পরিবর্তন",
+          "title_en": "Repentance of Youth and Turning Point of Life",
+          "author_name": {
+            "bn": "আবু ত্বহা মুহাম্মদ আদনান",
+            "en": "Abu Toha Muhammad Adnan"
+          },
+          "author_name_bn": "আবু ত্বহা মুহাম্মদ আদনান",
+          "author_name_en": "Abu Toha Muhammad Adnan",
+          "category": {
+            "bn": "আবু ত্বহা মুহাম্মদ আদনান",
+            "en": "Abu Toha Muhammad Adnan"
+          },
+          "category_bn": "আবু ত্বহা মুহাম্মদ আদনান",
+          "category_en": "Abu Toha মুহাম্মদ আদনান",
+          "category_id": "abu_toha_adnan",
+          "topic_bn": "তওবা ও হেদায়েত",
+          "topic_en": "Repentance & Guidance",
+          "duration": "28:50",
+          "duration_seconds": 1730,
+          "file_name": "joubon_o_tawba.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/abu_toha_adnan/joubon_o_tawba.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/abu_toha_adnan/joubon_o_tawba.mp3",
+          "file_available": false
+        }
+      ]
     }
   ],
-  "total_categories": 6,
-  "total_lectures": 23,
+  "total_categories": 7,
+  "total_lectures": 27,
   "all_lectures": [
     {
       "id": "mra_001",
@@ -1439,6 +1577,128 @@
       "file_name": "bisshoshanti_o_islam.mp3",
       "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/dr_zakir_naik/bisshoshanti_o_islam.mp3",
       "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/dr_zakir_naik/bisshoshanti_o_islam.mp3"
+    },
+    {
+      "id": "ata_001",
+      "title": {
+        "bn": "জান্নাতের জন্য পাগল হওয়া এক আনসারী সাহাবার ঘটনা",
+        "en": "The Story of an Ansari Sahabi Who Yearned for Paradise"
+      },
+      "title_bn": "জান্নাতের জন্য পাগল হওয়া এক আনসারী সাহাবার ঘটনা",
+      "title_en": "The Story of an Ansari Sahabi Who Yearned for Paradise",
+      "author_name": {
+        "bn": "আবু ত্বহা মুহাম্মদ আদনান",
+        "en": "Abu Toha Muhammad Adnan"
+      },
+      "author_name_bn": "আবু ত্বহা মুহাম্মদ আদনান",
+      "author_name_en": "Abu Toha Muhammad Adnan",
+      "category": {
+        "bn": "আবু ত্বহা মুহাম্মদ আদনান",
+        "en": "Abu Toha Muhammad Adnan"
+      },
+      "category_bn": "আবু ত্বহা মুহাম্মদ আদনান",
+      "category_en": "Abu Toha Muhammad Adnan",
+      "category_id": "abu_toha_adnan",
+      "topic_bn": "সাহাবাদের ঈমানী জিন্দেগী ও জান্নাতের আকাঙ্ক্ষা",
+      "topic_en": "Faith of the Sahabah & Yearning for Paradise",
+      "duration": "19:12",
+      "duration_seconds": 1152,
+      "file_name": "jannater_jonno_pagol_howa_ek_ansari_sahabar_ghotona.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/abu_toha_adnan/jannater_jonno_pagol_howa_ek_ansari_sahabar_ghotona.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/abu_toha_adnan/jannater_jonno_pagol_howa_ek_ansari_sahabar_ghotona.mp3",
+      "size_bytes": 16269890,
+      "size_formatted": "15.52 MB",
+      "file_available": true
+    },
+    {
+      "id": "ata_002",
+      "title": {
+        "bn": "বর্তমান ফেতনার যুগ ও ঈমান রক্ষার মোক্ষম উপায়",
+        "en": "The Age of Fitnah and Protecting Our Faith"
+      },
+      "title_bn": "বর্তমান ফেতনার যুগ ও ঈমান রক্ষার মোক্ষম উপায়",
+      "title_en": "The Age of Fitnah and Protecting Our Faith",
+      "author_name": {
+        "bn": "আবু ত্বহা মুহাম্মদ আদনান",
+        "en": "Abu Toha Muhammad Adnan"
+      },
+      "author_name_bn": "আবু ত্বহা মুহাম্মদ আদনান",
+      "author_name_en": "Abu Toha Muhammad Adnan",
+      "category": {
+        "bn": "আবু ত্বহা মুহাম্মদ আদনান",
+        "en": "Abu Toha Muhammad Adnan"
+      },
+      "category_bn": "আবু ত্বহা মুহাম্মদ আদনান",
+      "category_en": "Abu Toha Muhammad Adnan",
+      "category_id": "abu_toha_adnan",
+      "topic_bn": "আখিরুয জামান ও ঈমান সংরক্ষণ",
+      "topic_en": "End Times & Preserving Faith",
+      "duration": "34:20",
+      "duration_seconds": 2060,
+      "file_name": "fitnar_jug_o_iman_rokkhya.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/abu_toha_adnan/fitnar_jug_o_iman_rokkhya.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/abu_toha_adnan/fitnar_jug_o_iman_rokkhya.mp3",
+      "file_available": false
+    },
+    {
+      "id": "ata_003",
+      "title": {
+        "bn": "শেষ জামানার দাজ্জাল ও কিয়ামতের পূর্বপ্রস্তুতি",
+        "en": "Dajjal and Signs of the End Times"
+      },
+      "title_bn": "শেষ জামানার দাজ্জাল ও কিয়ামতের পূর্বপ্রস্তুতি",
+      "title_en": "Dajjal and Signs of the End Times",
+      "author_name": {
+        "bn": "আবু ত্বহা মুহাম্মদ আদনান",
+        "en": "Abu Toha Muhammad Adnan"
+      },
+      "author_name_bn": "আবু ত্বহা মুহাম্মদ আদনান",
+      "author_name_en": "Abu Toha Muhammad Adnan",
+      "category": {
+        "bn": "আবু ত্বহা মুহাম্মদ আদনান",
+        "en": "Abu Toha Muhammad Adnan"
+      },
+      "category_bn": "আবু ত্বহা মুহাম্মদ আদনান",
+      "category_en": "Abu Toha Muhammad Adnan",
+      "category_id": "abu_toha_adnan",
+      "topic_bn": "দাজ্জাল ও কিয়ামত",
+      "topic_en": "Dajjal & Qiyamah",
+      "duration": "42:15",
+      "duration_seconds": 2535,
+      "file_name": "shesh_jamanar_dajjal_o_qiyamat.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/abu_toha_adnan/shesh_jamanar_dajjal_o_qiyamat.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/abu_toha_adnan/shesh_jamanar_dajjal_o_qiyamat.mp3",
+      "file_available": false
+    },
+    {
+      "id": "ata_004",
+      "title": {
+        "bn": "যুবসমাজের তওবা ও জীবনের মোড় পরিবর্তন",
+        "en": "Repentance of Youth and Turning Point of Life"
+      },
+      "title_bn": "যুবসমাজের তওবা ও জীবনের মোড় পরিবর্তন",
+      "title_en": "Repentance of Youth and Turning Point of Life",
+      "author_name": {
+        "bn": "আবু ত্বহা মুহাম্মদ আদনান",
+        "en": "Abu Toha Muhammad Adnan"
+      },
+      "author_name_bn": "আবু ত্বহা মুহাম্মদ আদনান",
+      "author_name_en": "Abu Toha Muhammad Adnan",
+      "category": {
+        "bn": "আবু ত্বহা মুহাম্মদ আদনান",
+        "en": "Abu Toha Muhammad Adnan"
+      },
+      "category_bn": "আবু ত্বহা মুহাম্মদ আদনান",
+      "category_en": "Abu Toha মুহাম্মদ আদনান",
+      "category_id": "abu_toha_adnan",
+      "topic_bn": "তওবা ও হেদায়েত",
+      "topic_en": "Repentance & Guidance",
+      "duration": "28:50",
+      "duration_seconds": 1730,
+      "file_name": "joubon_o_tawba.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/abu_toha_adnan/joubon_o_tawba.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/abu_toha_adnan/joubon_o_tawba.mp3",
+      "file_available": false
     }
   ]
 }

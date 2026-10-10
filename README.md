@@ -2,8 +2,8 @@
 > DeenOne অফিসিয়াল ইসলামিক অডিও লেকচার ভান্ডার, সিডিএন অডিও স্ট্রিমিং ও দ্বৈতভাষিক (Bangla & English) API ডাটাবেজ।
 
 [![CDN jsDelivr](https://data.jsdelivr.com/v1/package/gh/riadmonir/Islamic-Lecture/badge)](https://www.jsdelivr.com/package/gh/riadmonir/Islamic-Lecture)
-[![Total Speakers](https://img.shields.io/badge/Speakers-6-teal)](islamic_lectures.json)
-[![Total Lectures](https://img.shields.io/badge/Lectures-23-blue)](islamic_lectures.json)
+[![Total Speakers](https://img.shields.io/badge/Speakers-7-teal)](islamic_lectures.json)
+[![Total Lectures](https://img.shields.io/badge/Lectures-27-blue)](islamic_lectures.json)
 
 ---
 
@@ -37,6 +37,10 @@ Islamic-Lecture/
 ├── islamic_lectures.json       # মূল দ্বৈতভাষিক JSON ডাটাবেজ (Master API)
 ├── lectures.json               # অল্টারনেট সিম্পল পাথ এন্ডপয়েন্ট
 ├── README.md                   # পূর্ণাঙ্গ ডকুমেন্টেশন
+├── abu_toha_adnan/             # আবু ত্বহা মুহাম্মদ আদনান
+│   ├── README.md
+│   ├── .gitkeep
+│   └── jannater_jonno_pagol_howa_ek_ansari_sahabar_ghotona.mp3 (15.5 MB)
 ├── mizanur_rahman_azhari/      # মিজানুর রহমান আজহারী
 │   ├── README.md
 │   ├── .gitkeep
@@ -69,6 +73,7 @@ Islamic-Lecture/
 
 | স্কলার / ক্যাটাগরি | Category / Scholar (English) | ফোল্ডার (Folder) | মোট লেকচার |
 |---|---|---|:---:|
+| **আবু ত্বহা মুহাম্মদ আদনান** | Abu Toha Muhammad Adnan | `abu_toha_adnan/` | 4 |
 | **মিজানুর রহমান আজহারী** | Mizanur Rahman Azhari | `mizanur_rahman_azhari/` | 6 |
 | **মাওলানা তারেক মনোয়ার** | Maulana Tarek Monowar | `tarek_monowar/` | 5 |
 | **আল্লামা দেলাওয়ার হোসাইন সাঈদী** | Allama Delwar Hossain Sayeedi | `delwar_hossain_sayeedi/` | 5 |
@@ -84,21 +89,21 @@ JSON ফাইলের প্রতিটি লেকচার অবজেক
 
 ```json
 {
-  "id": "mra_001",
-  "title_bn": "সুন্দর চরিত্রের গুরুত্ব ও আখলাক",
-  "title_en": "Importance of Noble Character and Akhlaq",
-  "author_name_bn": "মিজানুর রহমান আজহারী",
-  "author_name_en": "Mizanur Rahman Azhari",
-  "category_bn": "মিজানুর রহমান আজহারী",
-  "category_en": "Mizanur Rahman Azhari",
-  "category_id": "mizanur_rahman_azhari",
-  "topic_bn": "আখলাক ও আত্মশুদ্ধি",
-  "topic_en": "Manners & Self-Purification",
-  "duration": "42:15",
-  "duration_seconds": 2535,
-  "file_name": "sundor_choritrer_gurutto.mp3",
-  "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/sundor_choritrer_gurutto.mp3",
-  "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/sundor_choritrer_gurutto.mp3"
+  "id": "ata_001",
+  "title_bn": "জান্নাতের জন্য পাগল হওয়া এক আনসারী সাহাবার ঘটনা",
+  "title_en": "The Story of an Ansari Sahabi Who Yearned for Paradise",
+  "author_name_bn": "আবু ত্বহা মুহাম্মদ আদনান",
+  "author_name_en": "Abu Toha Muhammad Adnan",
+  "category_bn": "আবু ত্বহা মুহাম্মদ আদনান",
+  "category_en": "Abu Toha Muhammad Adnan",
+  "category_id": "abu_toha_adnan",
+  "topic_bn": "সাহাবাদের ঈমানী জিন্দেগী ও জান্নাতের আকাঙ্ক্ষা",
+  "topic_en": "Faith of the Sahabah & Yearning for Paradise",
+  "duration": "19:12",
+  "duration_seconds": 1152,
+  "file_name": "jannater_jonno_pagol_howa_ek_ansari_sahabar_ghotona.mp3",
+  "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/abu_toha_adnan/jannater_jonno_pagol_howa_ek_ansari_sahabar_ghotona.mp3",
+  "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/abu_toha_adnan/jannater_jonno_pagol_howa_ek_ansari_sahabar_ghotona.mp3"
 }
 ```
 
