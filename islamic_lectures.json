@@ -1,0 +1,1444 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-10-10",
+  "repo_name": "riadmonir/Islamic-Lecture",
+  "cdn_provider": "jsDelivr & GitHub Raw",
+  "cdn_base_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main",
+  "raw_base_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main",
+  "categories": [
+    {
+      "id": "mizanur_rahman_azhari",
+      "folder": "mizanur_rahman_azhari",
+      "name": {
+        "bn": "মিজানুর রহমান আজহারী",
+        "en": "Mizanur Rahman Azhari"
+      },
+      "name_bn": "মিজানুর রহমান আজহারী",
+      "name_en": "Mizanur Rahman Azhari",
+      "designation_bn": "বিশিষ্ট ইসলামিক স্কলার ও গবেষক",
+      "designation_en": "Renowned Islamic Scholar & Researcher",
+      "image_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/author_thumb.jpg",
+      "total_lectures": 6,
+      "lectures": [
+        {
+          "id": "mra_001",
+          "title": {
+            "bn": "সুন্দর চরিত্রের গুরুত্ব ও আখলাক",
+            "en": "Importance of Noble Character and Akhlaq"
+          },
+          "title_bn": "সুন্দর চরিত্রের গুরুত্ব ও আখলাক",
+          "title_en": "Importance of Noble Character and Akhlaq",
+          "author_name": {
+            "bn": "মিজানুর রহমান আজহারী",
+            "en": "Mizanur Rahman Azhari"
+          },
+          "author_name_bn": "মিজানুর রহমান আজহারী",
+          "author_name_en": "Mizanur Rahman Azhari",
+          "category": {
+            "bn": "মিজানুর রহমান আজহারী",
+            "en": "Mizanur Rahman Azhari"
+          },
+          "category_bn": "মিজানুর রহমান আজহারী",
+          "category_en": "Mizanur Rahman Azhari",
+          "category_id": "mizanur_rahman_azhari",
+          "topic_bn": "আখলাক ও আত্মশুদ্ধি",
+          "topic_en": "Manners & Self-Purification",
+          "duration": "42:15",
+          "duration_seconds": 2535,
+          "file_name": "sundor_choritrer_gurutto.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/sundor_choritrer_gurutto.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/sundor_choritrer_gurutto.mp3"
+        },
+        {
+          "id": "mra_002",
+          "title": {
+            "bn": "তওবা ও ইস্তিগফারের অলৌকিক শক্তি",
+            "en": "The Miraculous Power of Tawbah and Istighfar"
+          },
+          "title_bn": "তওবা ও ইস্তিগফারের অলৌকিক শক্তি",
+          "title_en": "The Miraculous Power of Tawbah and Istighfar",
+          "author_name": {
+            "bn": "মিজানুর রহমান আজহারী",
+            "en": "Mizanur Rahman Azhari"
+          },
+          "author_name_bn": "মিজানুর রহমান আজহারী",
+          "author_name_en": "Mizanur Rahman Azhari",
+          "category": {
+            "bn": "মিজানুর রহমান আজহারী",
+            "en": "Mizanur Rahman Azhari"
+          },
+          "category_bn": "মিজানুর রহমান আজহারী",
+          "category_en": "Mizanur Rahman Azhari",
+          "category_id": "mizanur_rahman_azhari",
+          "topic_bn": "তওবা ও ক্ষমার আবেদন",
+          "topic_en": "Repentance & Forgiveness",
+          "duration": "38:40",
+          "duration_seconds": 2320,
+          "file_name": "tawba_o_istighfarer_shokti.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/tawba_o_istighfarer_shokti.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/tawba_o_istighfarer_shokti.mp3"
+        },
+        {
+          "id": "mra_003",
+          "title": {
+            "bn": "পবিত্র কুরআন ও জীবনের সঠিক পথনির্দেশ",
+            "en": "The Holy Quran and Guidance for Life"
+          },
+          "title_bn": "পবিত্র কুরআন ও জীবনের সঠিক পথনির্দেশ",
+          "title_en": "The Holy Quran and Guidance for Life",
+          "author_name": {
+            "bn": "মিজানুর রহমান আজহারী",
+            "en": "Mizanur Rahman Azhari"
+          },
+          "author_name_bn": "মিজানুর রহমান আজহারী",
+          "author_name_en": "Mizanur Rahman Azhari",
+          "category": {
+            "bn": "মিজানুর রহমান আজহারী",
+            "en": "Mizanur Rahman Azhari"
+          },
+          "category_bn": "মিজানুর রহমান আজহারী",
+          "category_en": "Mizanur Rahman Azhari",
+          "category_id": "mizanur_rahman_azhari",
+          "topic_bn": "কুরআন চর্চা",
+          "topic_en": "Quranic Study",
+          "duration": "45:10",
+          "duration_seconds": 2710,
+          "file_name": "quran_o_jiboner_pothnirdesh.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/quran_o_jiboner_pothnirdesh.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/quran_o_jiboner_pothnirdesh.mp3"
+        },
+        {
+          "id": "mra_004",
+          "title": {
+            "bn": "পিতামাতার প্রতি সদ্ব্যবহার ও দায়িত্ব",
+            "en": "Kindness and Duties Towards Parents"
+          },
+          "title_bn": "পিতামাতার প্রতি সদ্ব্যবহার ও দায়িত্ব",
+          "title_en": "Kindness and Duties Towards Parents",
+          "author_name": {
+            "bn": "মিজানুর রহমান আজহারী",
+            "en": "Mizanur Rahman Azhari"
+          },
+          "author_name_bn": "মিজানুর রহমান আজহারী",
+          "author_name_en": "Mizanur Rahman Azhari",
+          "category": {
+            "bn": "মিজানুর রহমান আজহারী",
+            "en": "Mizanur Rahman Azhari"
+          },
+          "category_bn": "মিজানুর রহমান আজহারী",
+          "category_en": "Mizanur Rahman Azhari",
+          "category_id": "mizanur_rahman_azhari",
+          "topic_bn": "পারিবারিক মূল্যবোধ",
+          "topic_en": "Family Values",
+          "duration": "35:25",
+          "duration_seconds": 2125,
+          "file_name": "pitamatar_proti_shodbabohar.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/pitamatar_proti_shodbabohar.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/pitamatar_proti_shodbabohar.mp3"
+        },
+        {
+          "id": "mra_005",
+          "title": {
+            "bn": "সালাতে একাগ্রতা ও খুশু অর্জনের উপায়",
+            "en": "Attaining Focus and Khushu in Salah"
+          },
+          "title_bn": "সালাতে একাগ্রতা ও খুশু অর্জনের উপায়",
+          "title_en": "Attaining Focus and Khushu in Salah",
+          "author_name": {
+            "bn": "মিজানুর রহমান আজহারী",
+            "en": "Mizanur Rahman Azhari"
+          },
+          "author_name_bn": "মিজানুর রহমান আজহারী",
+          "author_name_en": "Mizanur Rahman Azhari",
+          "category": {
+            "bn": "মিজানুর রহমান আজহারী",
+            "en": "Mizanur Rahman Azhari"
+          },
+          "category_bn": "মিজানুর রহমান আজহারী",
+          "category_en": "Mizanur Rahman Azhari",
+          "category_id": "mizanur_rahman_azhari",
+          "topic_bn": "নামাজ ও সালাত",
+          "topic_en": "Prayer & Devotion",
+          "duration": "29:50",
+          "duration_seconds": 1790,
+          "file_name": "salate_ekagroter_upay.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/salate_ekagroter_upay.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/salate_ekagroter_upay.mp3"
+        },
+        {
+          "id": "mra_006",
+          "title": {
+            "bn": "হতাশা ও দুশ্চিন্তা মুক্তির ইসলামী সমাধান",
+            "en": "Islamic Solutions for Anxiety and Depression"
+          },
+          "title_bn": "হতাশা ও দুশ্চিন্তা মুক্তির ইসলামী সমাধান",
+          "title_en": "Islamic Solutions for Anxiety and Depression",
+          "author_name": {
+            "bn": "মিজানুর রহমান আজহারী",
+            "en": "Mizanur Rahman Azhari"
+          },
+          "author_name_bn": "মিজানুর রহমান আজহারী",
+          "author_name_en": "Mizanur Rahman Azhari",
+          "category": {
+            "bn": "মিজানুর রহমান আজহারী",
+            "en": "Mizanur Rahman Azhari"
+          },
+          "category_bn": "মিজানুর রহমান আজহারী",
+          "category_en": "Mizanur Rahman Azhari",
+          "category_id": "mizanur_rahman_azhari",
+          "topic_bn": "মানসিক প্রশান্তি",
+          "topic_en": "Mental Peace",
+          "duration": "37:15",
+          "duration_seconds": 2235,
+          "file_name": "hotasha_muktir_upay.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/hotasha_muktir_upay.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/hotasha_muktir_upay.mp3"
+        }
+      ]
+    },
+    {
+      "id": "tarek_monowar",
+      "folder": "tarek_monowar",
+      "name": {
+        "bn": "মাওলানা তারেক মনোয়ার",
+        "en": "Maulana Tarek Monowar"
+      },
+      "name_bn": "মাওলানা তারেক মনোয়ার",
+      "name_en": "Maulana Tarek Monowar",
+      "designation_bn": "বিশিষ্ট মুফাসসির ও বক্তা",
+      "designation_en": "Prominent Islamic Speaker & Commentator",
+      "image_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/tarek_monowar/author_thumb.jpg",
+      "total_lectures": 5,
+      "lectures": [
+        {
+          "id": "tm_001",
+          "title": {
+            "bn": "রাসূলুল্লাহ (সা.) এর অনুপম সিরাত ও জীবনাদর্শ",
+            "en": "The Exemplary Seerah and Character of Prophet Muhammad (PBUH)"
+          },
+          "title_bn": "রাসূলুল্লাহ (সা.) এর অনুপম সিরাত ও জীবনাদর্শ",
+          "title_en": "The Exemplary Seerah and Character of Prophet Muhammad (PBUH)",
+          "author_name": {
+            "bn": "মাওলানা তারেক মনোয়ার",
+            "en": "Maulana Tarek Monowar"
+          },
+          "author_name_bn": "মাওলানা তারেক মনোয়ার",
+          "author_name_en": "Maulana Tarek Monowar",
+          "category": {
+            "bn": "মাওলানা তারেক মনোয়ার",
+            "en": "Maulana Tarek Monowar"
+          },
+          "category_bn": "মাওলানা তারেক মনোয়ার",
+          "category_en": "Maulana Tarek Monowar",
+          "category_id": "tarek_monowar",
+          "topic_bn": "সিরাতুন্নবী (সা.)",
+          "topic_en": "Prophetic Seerah",
+          "duration": "41:35",
+          "duration_seconds": 2495,
+          "file_name": "rasuler_onupom_adorsho.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/tarek_monowar/rasuler_onupom_adorsho.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/tarek_monowar/rasuler_onupom_adorsho.mp3"
+        },
+        {
+          "id": "tm_002",
+          "title": {
+            "bn": "হালাল রিজিকের বরকত ও গুরুত্ব",
+            "en": "Blessings and Importance of Halal Sustenance"
+          },
+          "title_bn": "হালাল রিজিকের বরকত ও গুরুত্ব",
+          "title_en": "Blessings and Importance of Halal Sustenance",
+          "author_name": {
+            "bn": "মাওলানা তারেক মনোয়ার",
+            "en": "Maulana Tarek Monowar"
+          },
+          "author_name_bn": "মাওলানা তারেক মনোয়ার",
+          "author_name_en": "Maulana Tarek Monowar",
+          "category": {
+            "bn": "মাওলানা তারেক মনোয়ার",
+            "en": "Maulana Tarek Monowar"
+          },
+          "category_bn": "মাওলানা তারেক মনোয়ার",
+          "category_en": "Maulana Tarek Monowar",
+          "category_id": "tarek_monowar",
+          "topic_bn": "রিজিক ও হালাল উপার্জন",
+          "topic_en": "Halal Livelihood",
+          "duration": "36:40",
+          "duration_seconds": 2200,
+          "file_name": "halal_uparjoner_borokot.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/tarek_monowar/halal_uparjoner_borokot.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/tarek_monowar/halal_uparjoner_borokot.mp3"
+        },
+        {
+          "id": "tm_003",
+          "title": {
+            "bn": "শান্তিময় ও আদর্শ পরিবার গঠনের মূলনীতি",
+            "en": "Principles for Building a Peaceful and Ideal Family"
+          },
+          "title_bn": "শান্তিময় ও আদর্শ পরিবার গঠনের মূলনীতি",
+          "title_en": "Principles for Building a Peaceful and Ideal Family",
+          "author_name": {
+            "bn": "মাওলানা তারেক মনোয়ার",
+            "en": "Maulana Tarek Monowar"
+          },
+          "author_name_bn": "মাওলানা তারেক মনোয়ার",
+          "author_name_en": "Maulana Tarek Monowar",
+          "category": {
+            "bn": "মাওলানা তারেক মনোয়ার",
+            "en": "Maulana Tarek Monowar"
+          },
+          "category_bn": "মাওলানা তারেক মনোয়ার",
+          "category_en": "Maulana Tarek Monowar",
+          "category_id": "tarek_monowar",
+          "topic_bn": "পারিবারিক জীবন",
+          "topic_en": "Family Guidance",
+          "duration": "44:18",
+          "duration_seconds": 2658,
+          "file_name": "adorsho_poribar_gothon.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/tarek_monowar/adorsho_poribar_gothon.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/tarek_monowar/adorsho_poribar_gothon.mp3"
+        },
+        {
+          "id": "tm_004",
+          "title": {
+            "bn": "যৌবনকালের গুরুত্ব ও যুবসমাজের করণীয়",
+            "en": "Importance of Youth and Responsibilities of Young Muslims"
+          },
+          "title_bn": "যৌবনকালের গুরুত্ব ও যুবসমাজের করণীয়",
+          "title_en": "Importance of Youth and Responsibilities of Young Muslims",
+          "author_name": {
+            "bn": "মাওলানা তারেক মনোয়ার",
+            "en": "Maulana Tarek Monowar"
+          },
+          "author_name_bn": "মাওলানা তারেক মনোয়ার",
+          "author_name_en": "Maulana Tarek Monowar",
+          "category": {
+            "bn": "মাওলানা তারেক মনোয়ার",
+            "en": "Maulana Tarek Monowar"
+          },
+          "category_bn": "মাওলানা তারেক মনোয়ার",
+          "category_en": "Maulana Tarek Monowar",
+          "category_id": "tarek_monowar",
+          "topic_bn": "যুবসমাজ",
+          "topic_en": "Youth Guidance",
+          "duration": "39:50",
+          "duration_seconds": 2390,
+          "file_name": "joubonkaler_hefazot.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/tarek_monowar/joubonkaler_hefazot.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/tarek_monowar/joubonkaler_hefazot.mp3"
+        },
+        {
+          "id": "tm_005",
+          "title": {
+            "bn": "দান ও সদকার অবিশ্বাস্য ফজিলত",
+            "en": "Incredible Virtues and Rewards of Charity (Sadaqah)"
+          },
+          "title_bn": "দান ও সদকার অবিশ্বাস্য ফজিলত",
+          "title_en": "Incredible Virtues and Rewards of Charity (Sadaqah)",
+          "author_name": {
+            "bn": "মাওলানা তারেক মনোয়ার",
+            "en": "Maulana Tarek Monowar"
+          },
+          "author_name_bn": "মাওলানা তারেক মনোয়ার",
+          "author_name_en": "Maulana Tarek Monowar",
+          "category": {
+            "bn": "মাওলানা তারেক মনোয়ার",
+            "en": "Maulana Tarek Monowar"
+          },
+          "category_bn": "মাওলানা তারেক মনোয়ার",
+          "category_en": "Maulana Tarek Monowar",
+          "category_id": "tarek_monowar",
+          "topic_bn": "সদকা ও দান",
+          "topic_en": "Charity & Sadaqah",
+          "duration": "33:15",
+          "duration_seconds": 1995,
+          "file_name": "daan_sodkar_fozilot.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/tarek_monowar/daan_sodkar_fozilot.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/tarek_monowar/daan_sodkar_fozilot.mp3"
+        }
+      ]
+    },
+    {
+      "id": "delwar_hossain_sayeedi",
+      "folder": "delwar_hossain_sayeedi",
+      "name": {
+        "bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+        "en": "Allama Delwar Hossain Sayeedi"
+      },
+      "name_bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+      "name_en": "Allama Delwar Hossain Sayeedi",
+      "designation_bn": "প্রখ্যাত মুফাসসিরে কুরআন",
+      "designation_en": "Legendary Mufassir-e-Quran",
+      "image_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/delwar_hossain_sayeedi/author_thumb.jpg",
+      "total_lectures": 5,
+      "lectures": [
+        {
+          "id": "dhs_001",
+          "title": {
+            "bn": "সূরা আর-রহমানের তাফসীর ও স্রষ্টার অনন্য সৃষ্টি",
+            "en": "Tafsir of Surah Ar-Rahman and Divine Wonders"
+          },
+          "title_bn": "সূরা আর-রহমানের তাফসীর ও স্রষ্টার অনন্য সৃষ্টি",
+          "title_en": "Tafsir of Surah Ar-Rahman and Divine Wonders",
+          "author_name": {
+            "bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+            "en": "Allama Delwar Hossain Sayeedi"
+          },
+          "author_name_bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+          "author_name_en": "Allama Delwar Hossain Sayeedi",
+          "category": {
+            "bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+            "en": "Allama Delwar Hossain Sayeedi"
+          },
+          "category_bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+          "category_en": "Allama Delwar Hossain Sayeedi",
+          "category_id": "delwar_hossain_sayeedi",
+          "topic_bn": "কুরআনের তাফসীর",
+          "topic_en": "Quranic Exegesis",
+          "duration": "54:30",
+          "duration_seconds": 3270,
+          "file_name": "surah_ar_rahman_tafsir.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/delwar_hossain_sayeedi/surah_ar_rahman_tafsir.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/delwar_hossain_sayeedi/surah_ar_rahman_tafsir.mp3"
+        },
+        {
+          "id": "dhs_002",
+          "title": {
+            "bn": "হযরত ইউসুফ (আ.) এর জীবনী ও অনুপম শিক্ষা",
+            "en": "Life and Lessons from Prophet Yusuf (AS)"
+          },
+          "title_bn": "হযরত ইউসুফ (আ.) এর জীবনী ও অনুপম শিক্ষা",
+          "title_en": "Life and Lessons from Prophet Yusuf (AS)",
+          "author_name": {
+            "bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+            "en": "Allama Delwar Hossain Sayeedi"
+          },
+          "author_name_bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+          "author_name_en": "Allama Delwar Hossain Sayeedi",
+          "category": {
+            "bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+            "en": "Allama Delwar Hossain Sayeedi"
+          },
+          "category_bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+          "category_en": "Allama Delwar Hossain Sayeedi",
+          "category_id": "delwar_hossain_sayeedi",
+          "topic_bn": "নবীগণের কাহিনী",
+          "topic_en": "Stories of the Prophets",
+          "duration": "58:15",
+          "duration_seconds": 3495,
+          "file_name": "yusuf_alaihissalam_jiboni.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/delwar_hossain_sayeedi/yusuf_alaihissalam_jiboni.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/delwar_hossain_sayeedi/yusuf_alaihissalam_jiboni.mp3"
+        },
+        {
+          "id": "dhs_003",
+          "title": {
+            "bn": "মৃত্যুর পরবর্তী জগত ও কিয়ামতের ময়দান",
+            "en": "Life After Death and the Plain of Resurrection"
+          },
+          "title_bn": "মৃত্যুর পরবর্তী জগত ও কিয়ামতের ময়দান",
+          "title_en": "Life After Death and the Plain of Resurrection",
+          "author_name": {
+            "bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+            "en": "Allama Delwar Hossain Sayeedi"
+          },
+          "author_name_bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+          "author_name_en": "Allama Delwar Hossain Sayeedi",
+          "category": {
+            "bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+            "en": "Allama Delwar Hossain Sayeedi"
+          },
+          "category_bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+          "category_en": "Allama Delwar Hossain Sayeedi",
+          "category_id": "delwar_hossain_sayeedi",
+          "topic_bn": "আখেরাত ও পরকাল",
+          "topic_en": "Hereafter & Accountability",
+          "duration": "51:45",
+          "duration_seconds": 3105,
+          "file_name": "mrityur_poroborti_jibon.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/delwar_hossain_sayeedi/mrityur_poroborti_jibon.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/delwar_hossain_sayeedi/mrityur_poroborti_jibon.mp3"
+        },
+        {
+          "id": "dhs_004",
+          "title": {
+            "bn": "জাহান্নামের কঠিন শাস্তি ও জান্নাতের অনন্ত নিয়ামত",
+            "en": "The Realities of Hellfire and Eternal Blessings of Paradise"
+          },
+          "title_bn": "জাহান্নামের কঠিন শাস্তি ও জান্নাতের অনন্ত নিয়ামত",
+          "title_en": "The Realities of Hellfire and Eternal Blessings of Paradise",
+          "author_name": {
+            "bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+            "en": "Allama Delwar Hossain Sayeedi"
+          },
+          "author_name_bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+          "author_name_en": "Allama Delwar Hossain Sayeedi",
+          "category": {
+            "bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+            "en": "Allama Delwar Hossain Sayeedi"
+          },
+          "category_bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+          "category_en": "Allama Delwar Hossain Sayeedi",
+          "category_id": "delwar_hossain_sayeedi",
+          "topic_bn": "জান্নাত ও জাহান্নাম",
+          "topic_en": "Paradise & Hell",
+          "duration": "47:20",
+          "duration_seconds": 2840,
+          "file_name": "jannat_o_jahannam.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/delwar_hossain_sayeedi/jannat_o_jahannam.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/delwar_hossain_sayeedi/jannat_o_jahannam.mp3"
+        },
+        {
+          "id": "dhs_005",
+          "title": {
+            "bn": "সূরা আল-মুলকের গভীর তত্ত্ব ও বাস্তব জীবন শিক্ষা",
+            "en": "Deep Wisdom and Life Lessons of Surah Al-Mulk"
+          },
+          "title_bn": "সূরা আল-মুলকের গভীর তত্ত্ব ও বাস্তব জীবন শিক্ষা",
+          "title_en": "Deep Wisdom and Life Lessons of Surah Al-Mulk",
+          "author_name": {
+            "bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+            "en": "Allama Delwar Hossain Sayeedi"
+          },
+          "author_name_bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+          "author_name_en": "Allama Delwar Hossain Sayeedi",
+          "category": {
+            "bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+            "en": "Allama Delwar Hossain Sayeedi"
+          },
+          "category_bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+          "category_en": "Allama Delwar Hossain Sayeedi",
+          "category_id": "delwar_hossain_sayeedi",
+          "topic_bn": "কুরআনের তাফসীর",
+          "topic_en": "Quranic Exegesis",
+          "duration": "43:55",
+          "duration_seconds": 2635,
+          "file_name": "surah_al_mulk_shikkha.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/delwar_hossain_sayeedi/surah_al_mulk_shikkha.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/delwar_hossain_sayeedi/surah_al_mulk_shikkha.mp3"
+        }
+      ]
+    },
+    {
+      "id": "shaykh_ahmadullah",
+      "folder": "shaykh_ahmadullah",
+      "name": {
+        "bn": "শায়খ আহমাদুল্লাহ",
+        "en": "Shaykh Ahmadullah"
+      },
+      "name_bn": "শায়খ আহমাদুল্লাহ",
+      "name_en": "Shaykh Ahmadullah",
+      "designation_bn": "চেয়ারম্যান, আস-সুন্নাহ ফাউন্ডেশন",
+      "designation_en": "Chairman, As-Sunnah Foundation",
+      "image_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/shaykh_ahmadullah/author_thumb.jpg",
+      "total_lectures": 3,
+      "lectures": [
+        {
+          "id": "sa_001",
+          "title": {
+            "bn": "মনের অশান্তি দূর করার কুরআনীয় পথ",
+            "en": "Quranic Remedies for Relieving Mental Distress"
+          },
+          "title_bn": "মনের অশান্তি দূর করার কুরআনীয় পথ",
+          "title_en": "Quranic Remedies for Relieving Mental Distress",
+          "author_name": {
+            "bn": "শায়খ আহমাদুল্লাহ",
+            "en": "Shaykh Ahmadullah"
+          },
+          "author_name_bn": "শায়খ আহমাদুল্লাহ",
+          "author_name_en": "Shaykh Ahmadullah",
+          "category": {
+            "bn": "শায়খ আহমাদুল্লাহ",
+            "en": "Shaykh Ahmadullah"
+          },
+          "category_bn": "শায়খ আহমাদুল্লাহ",
+          "category_en": "Shaykh Ahmadullah",
+          "category_id": "shaykh_ahmadullah",
+          "topic_bn": "আত্মশুদ্ধি",
+          "topic_en": "Self-Rectification",
+          "duration": "31:45",
+          "duration_seconds": 1905,
+          "file_name": "moner_oshanti_dur_korar_upay.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/shaykh_ahmadullah/moner_oshanti_dur_korar_upay.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/shaykh_ahmadullah/moner_oshanti_dur_korar_upay.mp3"
+        },
+        {
+          "id": "sa_002",
+          "title": {
+            "bn": "দৈনন্দিন জীবনের বরকতময় সুন্নাহ ও আদব",
+            "en": "Blessed Sunnah and Etiquette in Daily Life"
+          },
+          "title_bn": "দৈনন্দিন জীবনের বরকতময় সুন্নাহ ও আদব",
+          "title_en": "Blessed Sunnah and Etiquette in Daily Life",
+          "author_name": {
+            "bn": "শায়খ আহমাদুল্লাহ",
+            "en": "Shaykh Ahmadullah"
+          },
+          "author_name_bn": "শায়খ আহমাদুল্লাহ",
+          "author_name_en": "Shaykh Ahmadullah",
+          "category": {
+            "bn": "শায়খ আহমাদুল্লাহ",
+            "en": "Shaykh Ahmadullah"
+          },
+          "category_bn": "শায়খ আহমাদুল্লাহ",
+          "category_en": "Shaykh Ahmadullah",
+          "category_id": "shaykh_ahmadullah",
+          "topic_bn": "সুন্নাহ ও শিষ্টাচার",
+          "topic_en": "Sunnah & Manners",
+          "duration": "28:10",
+          "duration_seconds": 1690,
+          "file_name": "doinondin_sunnah_o_adob.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/shaykh_ahmadullah/doinondin_sunnah_o_adob.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/shaykh_ahmadullah/doinondin_sunnah_o_adob.mp3"
+        },
+        {
+          "id": "sa_003",
+          "title": {
+            "bn": "কবরের তিনটি প্রশ্ন ও প্রস্তুতি",
+            "en": "Three Questions of the Grave and Our Preparation"
+          },
+          "title_bn": "কবরের তিনটি প্রশ্ন ও প্রস্তুতি",
+          "title_en": "Three Questions of the Grave and Our Preparation",
+          "author_name": {
+            "bn": "শায়খ আহমাদুল্লাহ",
+            "en": "Shaykh Ahmadullah"
+          },
+          "author_name_bn": "শায়খ আহমাদুল্লাহ",
+          "author_name_en": "Shaykh Ahmadullah",
+          "category": {
+            "bn": "শায়খ আহমাদুল্লাহ",
+            "en": "Shaykh Ahmadullah"
+          },
+          "category_bn": "শায়খ আহমাদুল্লাহ",
+          "category_en": "Shaykh Ahmadullah",
+          "category_id": "shaykh_ahmadullah",
+          "topic_bn": "পরকালীন প্রস্তুতি",
+          "topic_en": "Preparation for Grave",
+          "duration": "35:50",
+          "duration_seconds": 2150,
+          "file_name": "koborer_tinti_prosno.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/shaykh_ahmadullah/koborer_tinti_prosno.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/shaykh_ahmadullah/koborer_tinti_prosno.mp3"
+        }
+      ]
+    },
+    {
+      "id": "abdul_hi_saifullah",
+      "folder": "abdul_hi_saifullah",
+      "name": {
+        "bn": "মাওলানা আব্দুল হাই সাইফুল্লাহ",
+        "en": "Maulana Abdul Hi Saifullah"
+      },
+      "name_bn": "মাওলানা আব্দুল হাই সাইফুল্লাহ",
+      "name_en": "Maulana Abdul Hi Saifullah",
+      "designation_bn": "বিশিষ্ট আলেম ও গবেষক",
+      "designation_en": "Renowned Islamic Scholar & Researcher",
+      "image_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/abdul_hi_saifullah/author_thumb.jpg",
+      "total_lectures": 2,
+      "lectures": [
+        {
+          "id": "ahs_001",
+          "title": {
+            "bn": "কিয়ামতের বাস্তব আলামতসমূহ",
+            "en": "Signs of the Day of Judgment in Modern Context"
+          },
+          "title_bn": "কিয়ামতের বাস্তব আলামতসমূহ",
+          "title_en": "Signs of the Day of Judgment in Modern Context",
+          "author_name": {
+            "bn": "মাওলানা আব্দুল হাই সাইফুল্লাহ",
+            "en": "Maulana Abdul Hi Saifullah"
+          },
+          "author_name_bn": "মাওলানা আব্দুল হাই সাইফুল্লাহ",
+          "author_name_en": "Maulana Abdul Hi Saifullah",
+          "category": {
+            "bn": "মাওলানা আব্দুল হাই সাইফুল্লাহ",
+            "en": "Maulana Abdul Hi Saifullah"
+          },
+          "category_bn": "মাওলানা আব্দুল হাই সাইফুল্লাহ",
+          "category_en": "Maulana Abdul Hi Saifullah",
+          "category_id": "abdul_hi_saifullah",
+          "topic_bn": "কিয়ামত ও সতর্কতা",
+          "topic_en": "Signs of Qiyamah",
+          "duration": "48:20",
+          "duration_seconds": 2900,
+          "file_name": "kiyamoter_alamot.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/abdul_hi_saifullah/kiyamoter_alamot.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/abdul_hi_saifullah/kiyamoter_alamot.mp3"
+        },
+        {
+          "id": "ahs_002",
+          "title": {
+            "bn": "দাম্পত্য জীবনে পারস্পরিক সম্মান ও অধিকার",
+            "en": "Mutual Respect and Rights in Married Life"
+          },
+          "title_bn": "দাম্পত্য জীবনে পারস্পরিক সম্মান ও অধিকার",
+          "title_en": "Mutual Respect and Rights in Married Life",
+          "author_name": {
+            "bn": "মাওলানা আব্দুল হাই সাইফুল্লাহ",
+            "en": "Maulana Abdul Hi Saifullah"
+          },
+          "author_name_bn": "মাওলানা আব্দুল হাই সাইফুল্লাহ",
+          "author_name_en": "Maulana Abdul Hi Saifullah",
+          "category": {
+            "bn": "মাওলানা আব্দুল হাই সাইফুল্লাহ",
+            "en": "Maulana Abdul Hi Saifullah"
+          },
+          "category_bn": "মাওলানা আব্দুল হাই সাইফুল্লাহ",
+          "category_en": "Maulana Abdul Hi Saifullah",
+          "category_id": "abdul_hi_saifullah",
+          "topic_bn": "দাম্পত্য জীবন",
+          "topic_en": "Marital Life",
+          "duration": "37:45",
+          "duration_seconds": 2265,
+          "file_name": "dampotto_jibone_odhikar.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/abdul_hi_saifullah/dampotto_jibone_odhikar.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/abdul_hi_saifullah/dampotto_jibone_odhikar.mp3"
+        }
+      ]
+    },
+    {
+      "id": "dr_zakir_naik",
+      "folder": "dr_zakir_naik",
+      "name": {
+        "bn": "ড. জাকির নায়েক",
+        "en": "Dr. Zakir Naik"
+      },
+      "name_bn": "ড. জাকির নায়েক",
+      "name_en": "Dr. Zakir Naik",
+      "designation_bn": "আন্তর্জাতিক ইসলামিক দা'ঈ ও তুলনামূলক ধর্মতত্ত্ববিদ",
+      "designation_en": "Renowned Islamic Da'ee & Comparative Theologian",
+      "image_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/dr_zakir_naik/author_thumb.jpg",
+      "total_lectures": 2,
+      "lectures": [
+        {
+          "id": "dzn_001",
+          "title": {
+            "bn": "কুরআন ও আধুনিক বিজ্ঞান: সঙ্গতি না অসঙ্গতি?",
+            "en": "The Quran and Modern Science: Compatible or Incompatible?"
+          },
+          "title_bn": "কুরআন ও আধুনিক বিজ্ঞান: সঙ্গতি না অসঙ্গতি?",
+          "title_en": "The Quran and Modern Science: Compatible or Incompatible?",
+          "author_name": {
+            "bn": "ড. জাকির নায়েক",
+            "en": "Dr. Zakir Naik"
+          },
+          "author_name_bn": "ড. জাকির নায়েক",
+          "author_name_en": "Dr. Zakir Naik",
+          "category": {
+            "bn": "ড. জাকির নায়েক",
+            "en": "Dr. Zakir Naik"
+          },
+          "category_bn": "ড. জাকির নায়েক",
+          "category_en": "Dr. Zakir Naik",
+          "category_id": "dr_zakir_naik",
+          "topic_bn": "বিজ্ঞান ও কুরআন",
+          "topic_en": "Quran and Science",
+          "duration": "59:10",
+          "duration_seconds": 3550,
+          "file_name": "quran_o_adhunik_biggan.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/dr_zakir_naik/quran_o_adhunik_biggan.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/dr_zakir_naik/quran_o_adhunik_biggan.mp3"
+        },
+        {
+          "id": "dzn_002",
+          "title": {
+            "bn": "বিশ্বশান্তি প্রতিষ্ঠায় ইসলামের অনুপম ভূমিকা",
+            "en": "The Role of Islam in Establishing World Peace"
+          },
+          "title_bn": "বিশ্বশান্তি প্রতিষ্ঠায় ইসলামের অনুপম ভূমিকা",
+          "title_en": "The Role of Islam in Establishing World Peace",
+          "author_name": {
+            "bn": "ড. জাকির নায়েক",
+            "en": "Dr. Zakir Naik"
+          },
+          "author_name_bn": "ড. জাকির নায়েক",
+          "author_name_en": "Dr. Zakir Naik",
+          "category": {
+            "bn": "ড. জাকির নায়েক",
+            "en": "Dr. Zakir Naik"
+          },
+          "category_bn": "ড. জাকির নায়েক",
+          "category_en": "Dr. Zakir Naik",
+          "category_id": "dr_zakir_naik",
+          "topic_bn": "শান্তি ও মানবতা",
+          "topic_en": "Peace & Humanity",
+          "duration": "52:30",
+          "duration_seconds": 3150,
+          "file_name": "bisshoshanti_o_islam.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/dr_zakir_naik/bisshoshanti_o_islam.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/dr_zakir_naik/bisshoshanti_o_islam.mp3"
+        }
+      ]
+    }
+  ],
+  "total_categories": 6,
+  "total_lectures": 23,
+  "all_lectures": [
+    {
+      "id": "mra_001",
+      "title": {
+        "bn": "সুন্দর চরিত্রের গুরুত্ব ও আখলাক",
+        "en": "Importance of Noble Character and Akhlaq"
+      },
+      "title_bn": "সুন্দর চরিত্রের গুরুত্ব ও আখলাক",
+      "title_en": "Importance of Noble Character and Akhlaq",
+      "author_name": {
+        "bn": "মিজানুর রহমান আজহারী",
+        "en": "Mizanur Rahman Azhari"
+      },
+      "author_name_bn": "মিজানুর রহমান আজহারী",
+      "author_name_en": "Mizanur Rahman Azhari",
+      "category": {
+        "bn": "মিজানুর রহমান আজহারী",
+        "en": "Mizanur Rahman Azhari"
+      },
+      "category_bn": "মিজানুর রহমান আজহারী",
+      "category_en": "Mizanur Rahman Azhari",
+      "category_id": "mizanur_rahman_azhari",
+      "topic_bn": "আখলাক ও আত্মশুদ্ধি",
+      "topic_en": "Manners & Self-Purification",
+      "duration": "42:15",
+      "duration_seconds": 2535,
+      "file_name": "sundor_choritrer_gurutto.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/sundor_choritrer_gurutto.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/sundor_choritrer_gurutto.mp3"
+    },
+    {
+      "id": "mra_002",
+      "title": {
+        "bn": "তওবা ও ইস্তিগফারের অলৌকিক শক্তি",
+        "en": "The Miraculous Power of Tawbah and Istighfar"
+      },
+      "title_bn": "তওবা ও ইস্তিগফারের অলৌকিক শক্তি",
+      "title_en": "The Miraculous Power of Tawbah and Istighfar",
+      "author_name": {
+        "bn": "মিজানুর রহমান আজহারী",
+        "en": "Mizanur Rahman Azhari"
+      },
+      "author_name_bn": "মিজানুর রহমান আজহারী",
+      "author_name_en": "Mizanur Rahman Azhari",
+      "category": {
+        "bn": "মিজানুর রহমান আজহারী",
+        "en": "Mizanur Rahman Azhari"
+      },
+      "category_bn": "মিজানুর রহমান আজহারী",
+      "category_en": "Mizanur Rahman Azhari",
+      "category_id": "mizanur_rahman_azhari",
+      "topic_bn": "তওবা ও ক্ষমার আবেদন",
+      "topic_en": "Repentance & Forgiveness",
+      "duration": "38:40",
+      "duration_seconds": 2320,
+      "file_name": "tawba_o_istighfarer_shokti.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/tawba_o_istighfarer_shokti.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/tawba_o_istighfarer_shokti.mp3"
+    },
+    {
+      "id": "mra_003",
+      "title": {
+        "bn": "পবিত্র কুরআন ও জীবনের সঠিক পথনির্দেশ",
+        "en": "The Holy Quran and Guidance for Life"
+      },
+      "title_bn": "পবিত্র কুরআন ও জীবনের সঠিক পথনির্দেশ",
+      "title_en": "The Holy Quran and Guidance for Life",
+      "author_name": {
+        "bn": "মিজানুর রহমান আজহারী",
+        "en": "Mizanur Rahman Azhari"
+      },
+      "author_name_bn": "মিজানুর রহমান আজহারী",
+      "author_name_en": "Mizanur Rahman Azhari",
+      "category": {
+        "bn": "মিজানুর রহমান আজহারী",
+        "en": "Mizanur Rahman Azhari"
+      },
+      "category_bn": "মিজানুর রহমান আজহারী",
+      "category_en": "Mizanur Rahman Azhari",
+      "category_id": "mizanur_rahman_azhari",
+      "topic_bn": "কুরআন চর্চা",
+      "topic_en": "Quranic Study",
+      "duration": "45:10",
+      "duration_seconds": 2710,
+      "file_name": "quran_o_jiboner_pothnirdesh.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/quran_o_jiboner_pothnirdesh.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/quran_o_jiboner_pothnirdesh.mp3"
+    },
+    {
+      "id": "mra_004",
+      "title": {
+        "bn": "পিতামাতার প্রতি সদ্ব্যবহার ও দায়িত্ব",
+        "en": "Kindness and Duties Towards Parents"
+      },
+      "title_bn": "পিতামাতার প্রতি সদ্ব্যবহার ও দায়িত্ব",
+      "title_en": "Kindness and Duties Towards Parents",
+      "author_name": {
+        "bn": "মিজানুর রহমান আজহারী",
+        "en": "Mizanur Rahman Azhari"
+      },
+      "author_name_bn": "মিজানুর রহমান আজহারী",
+      "author_name_en": "Mizanur Rahman Azhari",
+      "category": {
+        "bn": "মিজানুর রহমান আজহারী",
+        "en": "Mizanur Rahman Azhari"
+      },
+      "category_bn": "মিজানুর রহমান আজহারী",
+      "category_en": "Mizanur Rahman Azhari",
+      "category_id": "mizanur_rahman_azhari",
+      "topic_bn": "পারিবারিক মূল্যবোধ",
+      "topic_en": "Family Values",
+      "duration": "35:25",
+      "duration_seconds": 2125,
+      "file_name": "pitamatar_proti_shodbabohar.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/pitamatar_proti_shodbabohar.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/pitamatar_proti_shodbabohar.mp3"
+    },
+    {
+      "id": "mra_005",
+      "title": {
+        "bn": "সালাতে একাগ্রতা ও খুশু অর্জনের উপায়",
+        "en": "Attaining Focus and Khushu in Salah"
+      },
+      "title_bn": "সালাতে একাগ্রতা ও খুশু অর্জনের উপায়",
+      "title_en": "Attaining Focus and Khushu in Salah",
+      "author_name": {
+        "bn": "মিজানুর রহমান আজহারী",
+        "en": "Mizanur Rahman Azhari"
+      },
+      "author_name_bn": "মিজানুর রহমান আজহারী",
+      "author_name_en": "Mizanur Rahman Azhari",
+      "category": {
+        "bn": "মিজানুর রহমান আজহারী",
+        "en": "Mizanur Rahman Azhari"
+      },
+      "category_bn": "মিজানুর রহমান আজহারী",
+      "category_en": "Mizanur Rahman Azhari",
+      "category_id": "mizanur_rahman_azhari",
+      "topic_bn": "নামাজ ও সালাত",
+      "topic_en": "Prayer & Devotion",
+      "duration": "29:50",
+      "duration_seconds": 1790,
+      "file_name": "salate_ekagroter_upay.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/salate_ekagroter_upay.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/salate_ekagroter_upay.mp3"
+    },
+    {
+      "id": "mra_006",
+      "title": {
+        "bn": "হতাশা ও দুশ্চিন্তা মুক্তির ইসলামী সমাধান",
+        "en": "Islamic Solutions for Anxiety and Depression"
+      },
+      "title_bn": "হতাশা ও দুশ্চিন্তা মুক্তির ইসলামী সমাধান",
+      "title_en": "Islamic Solutions for Anxiety and Depression",
+      "author_name": {
+        "bn": "মিজানুর রহমান আজহারী",
+        "en": "Mizanur Rahman Azhari"
+      },
+      "author_name_bn": "মিজানুর রহমান আজহারী",
+      "author_name_en": "Mizanur Rahman Azhari",
+      "category": {
+        "bn": "মিজানুর রহমান আজহারী",
+        "en": "Mizanur Rahman Azhari"
+      },
+      "category_bn": "মিজানুর রহমান আজহারী",
+      "category_en": "Mizanur Rahman Azhari",
+      "category_id": "mizanur_rahman_azhari",
+      "topic_bn": "মানসিক প্রশান্তি",
+      "topic_en": "Mental Peace",
+      "duration": "37:15",
+      "duration_seconds": 2235,
+      "file_name": "hotasha_muktir_upay.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/hotasha_muktir_upay.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/hotasha_muktir_upay.mp3"
+    },
+    {
+      "id": "tm_001",
+      "title": {
+        "bn": "রাসূলুল্লাহ (সা.) এর অনুপম সিরাত ও জীবনাদর্শ",
+        "en": "The Exemplary Seerah and Character of Prophet Muhammad (PBUH)"
+      },
+      "title_bn": "রাসূলুল্লাহ (সা.) এর অনুপম সিরাত ও জীবনাদর্শ",
+      "title_en": "The Exemplary Seerah and Character of Prophet Muhammad (PBUH)",
+      "author_name": {
+        "bn": "মাওলানা তারেক মনোয়ার",
+        "en": "Maulana Tarek Monowar"
+      },
+      "author_name_bn": "মাওলানা তারেক মনোয়ার",
+      "author_name_en": "Maulana Tarek Monowar",
+      "category": {
+        "bn": "মাওলানা তারেক মনোয়ার",
+        "en": "Maulana Tarek Monowar"
+      },
+      "category_bn": "মাওলানা তারেক মনোয়ার",
+      "category_en": "Maulana Tarek Monowar",
+      "category_id": "tarek_monowar",
+      "topic_bn": "সিরাতুন্নবী (সা.)",
+      "topic_en": "Prophetic Seerah",
+      "duration": "41:35",
+      "duration_seconds": 2495,
+      "file_name": "rasuler_onupom_adorsho.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/tarek_monowar/rasuler_onupom_adorsho.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/tarek_monowar/rasuler_onupom_adorsho.mp3"
+    },
+    {
+      "id": "tm_002",
+      "title": {
+        "bn": "হালাল রিজিকের বরকত ও গুরুত্ব",
+        "en": "Blessings and Importance of Halal Sustenance"
+      },
+      "title_bn": "হালাল রিজিকের বরকত ও গুরুত্ব",
+      "title_en": "Blessings and Importance of Halal Sustenance",
+      "author_name": {
+        "bn": "মাওলানা তারেক মনোয়ার",
+        "en": "Maulana Tarek Monowar"
+      },
+      "author_name_bn": "মাওলানা তারেক মনোয়ার",
+      "author_name_en": "Maulana Tarek Monowar",
+      "category": {
+        "bn": "মাওলানা তারেক মনোয়ার",
+        "en": "Maulana Tarek Monowar"
+      },
+      "category_bn": "মাওলানা তারেক মনোয়ার",
+      "category_en": "Maulana Tarek Monowar",
+      "category_id": "tarek_monowar",
+      "topic_bn": "রিজিক ও হালাল উপার্জন",
+      "topic_en": "Halal Livelihood",
+      "duration": "36:40",
+      "duration_seconds": 2200,
+      "file_name": "halal_uparjoner_borokot.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/tarek_monowar/halal_uparjoner_borokot.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/tarek_monowar/halal_uparjoner_borokot.mp3"
+    },
+    {
+      "id": "tm_003",
+      "title": {
+        "bn": "শান্তিময় ও আদর্শ পরিবার গঠনের মূলনীতি",
+        "en": "Principles for Building a Peaceful and Ideal Family"
+      },
+      "title_bn": "শান্তিময় ও আদর্শ পরিবার গঠনের মূলনীতি",
+      "title_en": "Principles for Building a Peaceful and Ideal Family",
+      "author_name": {
+        "bn": "মাওলানা তারেক মনোয়ার",
+        "en": "Maulana Tarek Monowar"
+      },
+      "author_name_bn": "মাওলানা তারেক মনোয়ার",
+      "author_name_en": "Maulana Tarek Monowar",
+      "category": {
+        "bn": "মাওলানা তারেক মনোয়ার",
+        "en": "Maulana Tarek Monowar"
+      },
+      "category_bn": "মাওলানা তারেক মনোয়ার",
+      "category_en": "Maulana Tarek Monowar",
+      "category_id": "tarek_monowar",
+      "topic_bn": "পারিবারিক জীবন",
+      "topic_en": "Family Guidance",
+      "duration": "44:18",
+      "duration_seconds": 2658,
+      "file_name": "adorsho_poribar_gothon.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/tarek_monowar/adorsho_poribar_gothon.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/tarek_monowar/adorsho_poribar_gothon.mp3"
+    },
+    {
+      "id": "tm_004",
+      "title": {
+        "bn": "যৌবনকালের গুরুত্ব ও যুবসমাজের করণীয়",
+        "en": "Importance of Youth and Responsibilities of Young Muslims"
+      },
+      "title_bn": "যৌবনকালের গুরুত্ব ও যুবসমাজের করণীয়",
+      "title_en": "Importance of Youth and Responsibilities of Young Muslims",
+      "author_name": {
+        "bn": "মাওলানা তারেক মনোয়ার",
+        "en": "Maulana Tarek Monowar"
+      },
+      "author_name_bn": "মাওলানা তারেক মনোয়ার",
+      "author_name_en": "Maulana Tarek Monowar",
+      "category": {
+        "bn": "মাওলানা তারেক মনোয়ার",
+        "en": "Maulana Tarek Monowar"
+      },
+      "category_bn": "মাওলানা তারেক মনোয়ার",
+      "category_en": "Maulana Tarek Monowar",
+      "category_id": "tarek_monowar",
+      "topic_bn": "যুবসমাজ",
+      "topic_en": "Youth Guidance",
+      "duration": "39:50",
+      "duration_seconds": 2390,
+      "file_name": "joubonkaler_hefazot.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/tarek_monowar/joubonkaler_hefazot.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/tarek_monowar/joubonkaler_hefazot.mp3"
+    },
+    {
+      "id": "tm_005",
+      "title": {
+        "bn": "দান ও সদকার অবিশ্বাস্য ফজিলত",
+        "en": "Incredible Virtues and Rewards of Charity (Sadaqah)"
+      },
+      "title_bn": "দান ও সদকার অবিশ্বাস্য ফজিলত",
+      "title_en": "Incredible Virtues and Rewards of Charity (Sadaqah)",
+      "author_name": {
+        "bn": "মাওলানা তারেক মনোয়ার",
+        "en": "Maulana Tarek Monowar"
+      },
+      "author_name_bn": "মাওলানা তারেক মনোয়ার",
+      "author_name_en": "Maulana Tarek Monowar",
+      "category": {
+        "bn": "মাওলানা তারেক মনোয়ার",
+        "en": "Maulana Tarek Monowar"
+      },
+      "category_bn": "মাওলানা তারেক মনোয়ার",
+      "category_en": "Maulana Tarek Monowar",
+      "category_id": "tarek_monowar",
+      "topic_bn": "সদকা ও দান",
+      "topic_en": "Charity & Sadaqah",
+      "duration": "33:15",
+      "duration_seconds": 1995,
+      "file_name": "daan_sodkar_fozilot.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/tarek_monowar/daan_sodkar_fozilot.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/tarek_monowar/daan_sodkar_fozilot.mp3"
+    },
+    {
+      "id": "dhs_001",
+      "title": {
+        "bn": "সূরা আর-রহমানের তাফসীর ও স্রষ্টার অনন্য সৃষ্টি",
+        "en": "Tafsir of Surah Ar-Rahman and Divine Wonders"
+      },
+      "title_bn": "সূরা আর-রহমানের তাফসীর ও স্রষ্টার অনন্য সৃষ্টি",
+      "title_en": "Tafsir of Surah Ar-Rahman and Divine Wonders",
+      "author_name": {
+        "bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+        "en": "Allama Delwar Hossain Sayeedi"
+      },
+      "author_name_bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+      "author_name_en": "Allama Delwar Hossain Sayeedi",
+      "category": {
+        "bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+        "en": "Allama Delwar Hossain Sayeedi"
+      },
+      "category_bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+      "category_en": "Allama Delwar Hossain Sayeedi",
+      "category_id": "delwar_hossain_sayeedi",
+      "topic_bn": "কুরআনের তাফসীর",
+      "topic_en": "Quranic Exegesis",
+      "duration": "54:30",
+      "duration_seconds": 3270,
+      "file_name": "surah_ar_rahman_tafsir.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/delwar_hossain_sayeedi/surah_ar_rahman_tafsir.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/delwar_hossain_sayeedi/surah_ar_rahman_tafsir.mp3"
+    },
+    {
+      "id": "dhs_002",
+      "title": {
+        "bn": "হযরত ইউসুফ (আ.) এর জীবনী ও অনুপম শিক্ষা",
+        "en": "Life and Lessons from Prophet Yusuf (AS)"
+      },
+      "title_bn": "হযরত ইউসুফ (আ.) এর জীবনী ও অনুপম শিক্ষা",
+      "title_en": "Life and Lessons from Prophet Yusuf (AS)",
+      "author_name": {
+        "bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+        "en": "Allama Delwar Hossain Sayeedi"
+      },
+      "author_name_bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+      "author_name_en": "Allama Delwar Hossain Sayeedi",
+      "category": {
+        "bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+        "en": "Allama Delwar Hossain Sayeedi"
+      },
+      "category_bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+      "category_en": "Allama Delwar Hossain Sayeedi",
+      "category_id": "delwar_hossain_sayeedi",
+      "topic_bn": "নবীগণের কাহিনী",
+      "topic_en": "Stories of the Prophets",
+      "duration": "58:15",
+      "duration_seconds": 3495,
+      "file_name": "yusuf_alaihissalam_jiboni.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/delwar_hossain_sayeedi/yusuf_alaihissalam_jiboni.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/delwar_hossain_sayeedi/yusuf_alaihissalam_jiboni.mp3"
+    },
+    {
+      "id": "dhs_003",
+      "title": {
+        "bn": "মৃত্যুর পরবর্তী জগত ও কিয়ামতের ময়দান",
+        "en": "Life After Death and the Plain of Resurrection"
+      },
+      "title_bn": "মৃত্যুর পরবর্তী জগত ও কিয়ামতের ময়দান",
+      "title_en": "Life After Death and the Plain of Resurrection",
+      "author_name": {
+        "bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+        "en": "Allama Delwar Hossain Sayeedi"
+      },
+      "author_name_bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+      "author_name_en": "Allama Delwar Hossain Sayeedi",
+      "category": {
+        "bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+        "en": "Allama Delwar Hossain Sayeedi"
+      },
+      "category_bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+      "category_en": "Allama Delwar Hossain Sayeedi",
+      "category_id": "delwar_hossain_sayeedi",
+      "topic_bn": "আখেরাত ও পরকাল",
+      "topic_en": "Hereafter & Accountability",
+      "duration": "51:45",
+      "duration_seconds": 3105,
+      "file_name": "mrityur_poroborti_jibon.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/delwar_hossain_sayeedi/mrityur_poroborti_jibon.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/delwar_hossain_sayeedi/mrityur_poroborti_jibon.mp3"
+    },
+    {
+      "id": "dhs_004",
+      "title": {
+        "bn": "জাহান্নামের কঠিন শাস্তি ও জান্নাতের অনন্ত নিয়ামত",
+        "en": "The Realities of Hellfire and Eternal Blessings of Paradise"
+      },
+      "title_bn": "জাহান্নামের কঠিন শাস্তি ও জান্নাতের অনন্ত নিয়ামত",
+      "title_en": "The Realities of Hellfire and Eternal Blessings of Paradise",
+      "author_name": {
+        "bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+        "en": "Allama Delwar Hossain Sayeedi"
+      },
+      "author_name_bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+      "author_name_en": "Allama Delwar Hossain Sayeedi",
+      "category": {
+        "bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+        "en": "Allama Delwar Hossain Sayeedi"
+      },
+      "category_bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+      "category_en": "Allama Delwar Hossain Sayeedi",
+      "category_id": "delwar_hossain_sayeedi",
+      "topic_bn": "জান্নাত ও জাহান্নাম",
+      "topic_en": "Paradise & Hell",
+      "duration": "47:20",
+      "duration_seconds": 2840,
+      "file_name": "jannat_o_jahannam.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/delwar_hossain_sayeedi/jannat_o_jahannam.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/delwar_hossain_sayeedi/jannat_o_jahannam.mp3"
+    },
+    {
+      "id": "dhs_005",
+      "title": {
+        "bn": "সূরা আল-মুলকের গভীর তত্ত্ব ও বাস্তব জীবন শিক্ষা",
+        "en": "Deep Wisdom and Life Lessons of Surah Al-Mulk"
+      },
+      "title_bn": "সূরা আল-মুলকের গভীর তত্ত্ব ও বাস্তব জীবন শিক্ষা",
+      "title_en": "Deep Wisdom and Life Lessons of Surah Al-Mulk",
+      "author_name": {
+        "bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+        "en": "Allama Delwar Hossain Sayeedi"
+      },
+      "author_name_bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+      "author_name_en": "Allama Delwar Hossain Sayeedi",
+      "category": {
+        "bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+        "en": "Allama Delwar Hossain Sayeedi"
+      },
+      "category_bn": "আল্লামা দেলাওয়ার হোসাইন সাঈদী",
+      "category_en": "Allama Delwar Hossain Sayeedi",
+      "category_id": "delwar_hossain_sayeedi",
+      "topic_bn": "কুরআনের তাফসীর",
+      "topic_en": "Quranic Exegesis",
+      "duration": "43:55",
+      "duration_seconds": 2635,
+      "file_name": "surah_al_mulk_shikkha.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/delwar_hossain_sayeedi/surah_al_mulk_shikkha.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/delwar_hossain_sayeedi/surah_al_mulk_shikkha.mp3"
+    },
+    {
+      "id": "sa_001",
+      "title": {
+        "bn": "মনের অশান্তি দূর করার কুরআনীয় পথ",
+        "en": "Quranic Remedies for Relieving Mental Distress"
+      },
+      "title_bn": "মনের অশান্তি দূর করার কুরআনীয় পথ",
+      "title_en": "Quranic Remedies for Relieving Mental Distress",
+      "author_name": {
+        "bn": "শায়খ আহমাদুল্লাহ",
+        "en": "Shaykh Ahmadullah"
+      },
+      "author_name_bn": "শায়খ আহমাদুল্লাহ",
+      "author_name_en": "Shaykh Ahmadullah",
+      "category": {
+        "bn": "শায়খ আহমাদুল্লাহ",
+        "en": "Shaykh Ahmadullah"
+      },
+      "category_bn": "শায়খ আহমাদুল্লাহ",
+      "category_en": "Shaykh Ahmadullah",
+      "category_id": "shaykh_ahmadullah",
+      "topic_bn": "আত্মশুদ্ধি",
+      "topic_en": "Self-Rectification",
+      "duration": "31:45",
+      "duration_seconds": 1905,
+      "file_name": "moner_oshanti_dur_korar_upay.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/shaykh_ahmadullah/moner_oshanti_dur_korar_upay.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/shaykh_ahmadullah/moner_oshanti_dur_korar_upay.mp3"
+    },
+    {
+      "id": "sa_002",
+      "title": {
+        "bn": "দৈনন্দিন জীবনের বরকতময় সুন্নাহ ও আদব",
+        "en": "Blessed Sunnah and Etiquette in Daily Life"
+      },
+      "title_bn": "দৈনন্দিন জীবনের বরকতময় সুন্নাহ ও আদব",
+      "title_en": "Blessed Sunnah and Etiquette in Daily Life",
+      "author_name": {
+        "bn": "শায়খ আহমাদুল্লাহ",
+        "en": "Shaykh Ahmadullah"
+      },
+      "author_name_bn": "শায়খ আহমাদুল্লাহ",
+      "author_name_en": "Shaykh Ahmadullah",
+      "category": {
+        "bn": "শায়খ আহমাদুল্লাহ",
+        "en": "Shaykh Ahmadullah"
+      },
+      "category_bn": "শায়খ আহমাদুল্লাহ",
+      "category_en": "Shaykh Ahmadullah",
+      "category_id": "shaykh_ahmadullah",
+      "topic_bn": "সুন্নাহ ও শিষ্টাচার",
+      "topic_en": "Sunnah & Manners",
+      "duration": "28:10",
+      "duration_seconds": 1690,
+      "file_name": "doinondin_sunnah_o_adob.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/shaykh_ahmadullah/doinondin_sunnah_o_adob.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/shaykh_ahmadullah/doinondin_sunnah_o_adob.mp3"
+    },
+    {
+      "id": "sa_003",
+      "title": {
+        "bn": "কবরের তিনটি প্রশ্ন ও প্রস্তুতি",
+        "en": "Three Questions of the Grave and Our Preparation"
+      },
+      "title_bn": "কবরের তিনটি প্রশ্ন ও প্রস্তুতি",
+      "title_en": "Three Questions of the Grave and Our Preparation",
+      "author_name": {
+        "bn": "শায়খ আহমাদুল্লাহ",
+        "en": "Shaykh Ahmadullah"
+      },
+      "author_name_bn": "শায়খ আহমাদুল্লাহ",
+      "author_name_en": "Shaykh Ahmadullah",
+      "category": {
+        "bn": "শায়খ আহমাদুল্লাহ",
+        "en": "Shaykh Ahmadullah"
+      },
+      "category_bn": "শায়খ আহমাদুল্লাহ",
+      "category_en": "Shaykh Ahmadullah",
+      "category_id": "shaykh_ahmadullah",
+      "topic_bn": "পরকালীন প্রস্তুতি",
+      "topic_en": "Preparation for Grave",
+      "duration": "35:50",
+      "duration_seconds": 2150,
+      "file_name": "koborer_tinti_prosno.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/shaykh_ahmadullah/koborer_tinti_prosno.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/shaykh_ahmadullah/koborer_tinti_prosno.mp3"
+    },
+    {
+      "id": "ahs_001",
+      "title": {
+        "bn": "কিয়ামতের বাস্তব আলামতসমূহ",
+        "en": "Signs of the Day of Judgment in Modern Context"
+      },
+      "title_bn": "কিয়ামতের বাস্তব আলামতসমূহ",
+      "title_en": "Signs of the Day of Judgment in Modern Context",
+      "author_name": {
+        "bn": "মাওলানা আব্দুল হাই সাইফুল্লাহ",
+        "en": "Maulana Abdul Hi Saifullah"
+      },
+      "author_name_bn": "মাওলানা আব্দুল হাই সাইফুল্লাহ",
+      "author_name_en": "Maulana Abdul Hi Saifullah",
+      "category": {
+        "bn": "মাওলানা আব্দুল হাই সাইফুল্লাহ",
+        "en": "Maulana Abdul Hi Saifullah"
+      },
+      "category_bn": "মাওলানা আব্দুল হাই সাইফুল্লাহ",
+      "category_en": "Maulana Abdul Hi Saifullah",
+      "category_id": "abdul_hi_saifullah",
+      "topic_bn": "কিয়ামত ও সতর্কতা",
+      "topic_en": "Signs of Qiyamah",
+      "duration": "48:20",
+      "duration_seconds": 2900,
+      "file_name": "kiyamoter_alamot.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/abdul_hi_saifullah/kiyamoter_alamot.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/abdul_hi_saifullah/kiyamoter_alamot.mp3"
+    },
+    {
+      "id": "ahs_002",
+      "title": {
+        "bn": "দাম্পত্য জীবনে পারস্পরিক সম্মান ও অধিকার",
+        "en": "Mutual Respect and Rights in Married Life"
+      },
+      "title_bn": "দাম্পত্য জীবনে পারস্পরিক সম্মান ও অধিকার",
+      "title_en": "Mutual Respect and Rights in Married Life",
+      "author_name": {
+        "bn": "মাওলানা আব্দুল হাই সাইফুল্লাহ",
+        "en": "Maulana Abdul Hi Saifullah"
+      },
+      "author_name_bn": "মাওলানা আব্দুল হাই সাইফুল্লাহ",
+      "author_name_en": "Maulana Abdul Hi Saifullah",
+      "category": {
+        "bn": "মাওলানা আব্দুল হাই সাইফুল্লাহ",
+        "en": "Maulana Abdul Hi Saifullah"
+      },
+      "category_bn": "মাওলানা আব্দুল হাই সাইফুল্লাহ",
+      "category_en": "Maulana Abdul Hi Saifullah",
+      "category_id": "abdul_hi_saifullah",
+      "topic_bn": "দাম্পত্য জীবন",
+      "topic_en": "Marital Life",
+      "duration": "37:45",
+      "duration_seconds": 2265,
+      "file_name": "dampotto_jibone_odhikar.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/abdul_hi_saifullah/dampotto_jibone_odhikar.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/abdul_hi_saifullah/dampotto_jibone_odhikar.mp3"
+    },
+    {
+      "id": "dzn_001",
+      "title": {
+        "bn": "কুরআন ও আধুনিক বিজ্ঞান: সঙ্গতি না অসঙ্গতি?",
+        "en": "The Quran and Modern Science: Compatible or Incompatible?"
+      },
+      "title_bn": "কুরআন ও আধুনিক বিজ্ঞান: সঙ্গতি না অসঙ্গতি?",
+      "title_en": "The Quran and Modern Science: Compatible or Incompatible?",
+      "author_name": {
+        "bn": "ড. জাকির নায়েক",
+        "en": "Dr. Zakir Naik"
+      },
+      "author_name_bn": "ড. জাকির নায়েক",
+      "author_name_en": "Dr. Zakir Naik",
+      "category": {
+        "bn": "ড. জাকির নায়েক",
+        "en": "Dr. Zakir Naik"
+      },
+      "category_bn": "ড. জাকির নায়েক",
+      "category_en": "Dr. Zakir Naik",
+      "category_id": "dr_zakir_naik",
+      "topic_bn": "বিজ্ঞান ও কুরআন",
+      "topic_en": "Quran and Science",
+      "duration": "59:10",
+      "duration_seconds": 3550,
+      "file_name": "quran_o_adhunik_biggan.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/dr_zakir_naik/quran_o_adhunik_biggan.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/dr_zakir_naik/quran_o_adhunik_biggan.mp3"
+    },
+    {
+      "id": "dzn_002",
+      "title": {
+        "bn": "বিশ্বশান্তি প্রতিষ্ঠায় ইসলামের অনুপম ভূমিকা",
+        "en": "The Role of Islam in Establishing World Peace"
+      },
+      "title_bn": "বিশ্বশান্তি প্রতিষ্ঠায় ইসলামের অনুপম ভূমিকা",
+      "title_en": "The Role of Islam in Establishing World Peace",
+      "author_name": {
+        "bn": "ড. জাকির নায়েক",
+        "en": "Dr. Zakir Naik"
+      },
+      "author_name_bn": "ড. জাকির নায়েক",
+      "author_name_en": "Dr. Zakir Naik",
+      "category": {
+        "bn": "ড. জাকির নায়েক",
+        "en": "Dr. Zakir Naik"
+      },
+      "category_bn": "ড. জাকির নায়েক",
+      "category_en": "Dr. Zakir Naik",
+      "category_id": "dr_zakir_naik",
+      "topic_bn": "শান্তি ও মানবতা",
+      "topic_en": "Peace & Humanity",
+      "duration": "52:30",
+      "duration_seconds": 3150,
+      "file_name": "bisshoshanti_o_islam.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/dr_zakir_naik/bisshoshanti_o_islam.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/dr_zakir_naik/bisshoshanti_o_islam.mp3"
+    }
+  ]
+}
