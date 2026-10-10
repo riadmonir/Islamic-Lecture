@@ -1,0 +1,12 @@
+{
+  "name": "islamic-lecture",
+  "compatibility_date": "2024-09-23",
+  "assets": {
+    "directory": ".",
+    "exclude": [
+      "node_modules/**",
+      ".git/**",
+      "package-lock.json"
+    ]
+  }
+}

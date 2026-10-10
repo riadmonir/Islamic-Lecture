@@ -18,10 +18,43 @@
       "designation_bn": "বিশিষ্ট ইসলামিক স্কলার ও গবেষক",
       "designation_en": "Renowned Islamic Scholar & Researcher",
       "image_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/author_thumb.jpg",
-      "total_lectures": 6,
+      "total_lectures": 7,
       "lectures": [
         {
           "id": "mra_001",
+          "title": {
+            "bn": "জান্নাতের জন্য পাগল হওয়া এক আনসারী সাহাবার ঘটনা",
+            "en": "The Story of an Ansari Sahabi Who Yearned for Paradise"
+          },
+          "title_bn": "জান্নাতের জন্য পাগল হওয়া এক আনসারী সাহাবার ঘটনা",
+          "title_en": "The Story of an Ansari Sahabi Who Yearned for Paradise",
+          "author_name": {
+            "bn": "মিজানুর রহমান আজহারী",
+            "en": "Mizanur Rahman Azhari"
+          },
+          "author_name_bn": "মিজানুর রহমান আজহারী",
+          "author_name_en": "Mizanur Rahman Azhari",
+          "category": {
+            "bn": "মিজানুর রহমান আজহারী",
+            "en": "Mizanur Rahman Azhari"
+          },
+          "category_bn": "মিজানুর রহমান আজহারী",
+          "category_en": "Mizanur Rahman Azhari",
+          "category_id": "mizanur_rahman_azhari",
+          "topic_bn": "সাহাবাদের ঈমানী জিন্দেগী ও জান্নাতের আকাঙ্ক্ষা",
+          "topic_en": "Faith of the Sahabah & Yearning for Paradise",
+          "duration": "19:12",
+          "duration_seconds": 1152,
+          "file_name": "jannater_jonno_pagol_howa_ek_ansari_sahabar_ghotona.mp3",
+          "original_file_name": "জান্নাতের জন্য পাগল হওয়া এক আনসারী সাহাবার ঘটনা.mp3",
+          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/jannater_jonno_pagol_howa_ek_ansari_sahabar_ghotona.mp3",
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/jannater_jonno_pagol_howa_ek_ansari_sahabar_ghotona.mp3",
+          "size_bytes": 16269890,
+          "size_formatted": "15.52 MB",
+          "file_available": true
+        },
+        {
+          "id": "mra_002",
           "title": {
             "bn": "সুন্দর চরিত্রের গুরুত্ব ও আখলাক",
             "en": "Importance of Noble Character and Akhlaq"
@@ -47,10 +80,11 @@
           "duration_seconds": 2535,
           "file_name": "sundor_choritrer_gurutto.mp3",
           "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/sundor_choritrer_gurutto.mp3",
-          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/sundor_choritrer_gurutto.mp3"
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/sundor_choritrer_gurutto.mp3",
+          "file_available": false
         },
         {
-          "id": "mra_002",
+          "id": "mra_003",
           "title": {
             "bn": "তওবা ও ইস্তিগফারের অলৌকিক শক্তি",
             "en": "The Miraculous Power of Tawbah and Istighfar"
@@ -76,10 +110,11 @@
           "duration_seconds": 2320,
           "file_name": "tawba_o_istighfarer_shokti.mp3",
           "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/tawba_o_istighfarer_shokti.mp3",
-          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/tawba_o_istighfarer_shokti.mp3"
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/tawba_o_istighfarer_shokti.mp3",
+          "file_available": false
         },
         {
-          "id": "mra_003",
+          "id": "mra_004",
           "title": {
             "bn": "পবিত্র কুরআন ও জীবনের সঠিক পথনির্দেশ",
             "en": "The Holy Quran and Guidance for Life"
@@ -105,10 +140,11 @@
           "duration_seconds": 2710,
           "file_name": "quran_o_jiboner_pothnirdesh.mp3",
           "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/quran_o_jiboner_pothnirdesh.mp3",
-          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/quran_o_jiboner_pothnirdesh.mp3"
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/quran_o_jiboner_pothnirdesh.mp3",
+          "file_available": false
         },
         {
-          "id": "mra_004",
+          "id": "mra_005",
           "title": {
             "bn": "পিতামাতার প্রতি সদ্ব্যবহার ও দায়িত্ব",
             "en": "Kindness and Duties Towards Parents"
@@ -134,10 +170,11 @@
           "duration_seconds": 2125,
           "file_name": "pitamatar_proti_shodbabohar.mp3",
           "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/pitamatar_proti_shodbabohar.mp3",
-          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/pitamatar_proti_shodbabohar.mp3"
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/pitamatar_proti_shodbabohar.mp3",
+          "file_available": false
         },
         {
-          "id": "mra_005",
+          "id": "mra_006",
           "title": {
             "bn": "সালাতে একাগ্রতা ও খুশু অর্জনের উপায়",
             "en": "Attaining Focus and Khushu in Salah"
@@ -163,10 +200,11 @@
           "duration_seconds": 1790,
           "file_name": "salate_ekagroter_upay.mp3",
           "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/salate_ekagroter_upay.mp3",
-          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/salate_ekagroter_upay.mp3"
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/salate_ekagroter_upay.mp3",
+          "file_available": false
         },
         {
-          "id": "mra_006",
+          "id": "mra_007",
           "title": {
             "bn": "হতাশা ও দুশ্চিন্তা মুক্তির ইসলামী সমাধান",
             "en": "Islamic Solutions for Anxiety and Depression"
@@ -192,7 +230,8 @@
           "duration_seconds": 2235,
           "file_name": "hotasha_muktir_upay.mp3",
           "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/hotasha_muktir_upay.mp3",
-          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/hotasha_muktir_upay.mp3"
+          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/hotasha_muktir_upay.mp3",
+          "file_available": false
         }
       ]
     },
@@ -781,42 +820,10 @@
       "designation_bn": "বিশিষ্ট তরুণ ইসলামিক আলোচক ও দা'ঈ",
       "designation_en": "Renowned Islamic Speaker & Da'ee",
       "image_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/abu_toha_adnan/author_thumb.jpg",
-      "total_lectures": 4,
+      "total_lectures": 3,
       "lectures": [
         {
           "id": "ata_001",
-          "title": {
-            "bn": "জান্নাতের জন্য পাগল হওয়া এক আনসারী সাহাবার ঘটনা",
-            "en": "The Story of an Ansari Sahabi Who Yearned for Paradise"
-          },
-          "title_bn": "জান্নাতের জন্য পাগল হওয়া এক আনসারী সাহাবার ঘটনা",
-          "title_en": "The Story of an Ansari Sahabi Who Yearned for Paradise",
-          "author_name": {
-            "bn": "আবু ত্বহা মুহাম্মদ আদনান",
-            "en": "Abu Toha Muhammad Adnan"
-          },
-          "author_name_bn": "আবু ত্বহা মুহাম্মদ আদনান",
-          "author_name_en": "Abu Toha Muhammad Adnan",
-          "category": {
-            "bn": "আবু ত্বহা মুহাম্মদ আদনান",
-            "en": "Abu Toha Muhammad Adnan"
-          },
-          "category_bn": "আবু ত্বহা মুহাম্মদ আদনান",
-          "category_en": "Abu Toha Muhammad Adnan",
-          "category_id": "abu_toha_adnan",
-          "topic_bn": "সাহাবাদের ঈমানী জিন্দেগী ও জান্নাতের আকাঙ্ক্ষা",
-          "topic_en": "Faith of the Sahabah & Yearning for Paradise",
-          "duration": "19:12",
-          "duration_seconds": 1152,
-          "file_name": "jannater_jonno_pagol_howa_ek_ansari_sahabar_ghotona.mp3",
-          "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/abu_toha_adnan/jannater_jonno_pagol_howa_ek_ansari_sahabar_ghotona.mp3",
-          "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/abu_toha_adnan/jannater_jonno_pagol_howa_ek_ansari_sahabar_ghotona.mp3",
-          "size_bytes": 16269890,
-          "size_formatted": "15.52 MB",
-          "file_available": true
-        },
-        {
-          "id": "ata_002",
           "title": {
             "bn": "বর্তমান ফেতনার যুগ ও ঈমান রক্ষার মোক্ষম উপায়",
             "en": "The Age of Fitnah and Protecting Our Faith"
@@ -846,7 +853,7 @@
           "file_available": false
         },
         {
-          "id": "ata_003",
+          "id": "ata_002",
           "title": {
             "bn": "শেষ জামানার দাজ্জাল ও কিয়ামতের পূর্বপ্রস্তুতি",
             "en": "Dajjal and Signs of the End Times"
@@ -876,7 +883,7 @@
           "file_available": false
         },
         {
-          "id": "ata_004",
+          "id": "ata_003",
           "title": {
             "bn": "যুবসমাজের তওবা ও জীবনের মোড় পরিবর্তন",
             "en": "Repentance of Youth and Turning Point of Life"
@@ -894,7 +901,7 @@
             "en": "Abu Toha Muhammad Adnan"
           },
           "category_bn": "আবু ত্বহা মুহাম্মদ আদনান",
-          "category_en": "Abu Toha মুহাম্মদ আদনান",
+          "category_en": "Abu Toha Muhammad Adnan",
           "category_id": "abu_toha_adnan",
           "topic_bn": "তওবা ও হেদায়েত",
           "topic_en": "Repentance & Guidance",
@@ -913,6 +920,39 @@
   "all_lectures": [
     {
       "id": "mra_001",
+      "title": {
+        "bn": "জান্নাতের জন্য পাগল হওয়া এক আনসারী সাহাবার ঘটনা",
+        "en": "The Story of an Ansari Sahabi Who Yearned for Paradise"
+      },
+      "title_bn": "জান্নাতের জন্য পাগল হওয়া এক আনসারী সাহাবার ঘটনা",
+      "title_en": "The Story of an Ansari Sahabi Who Yearned for Paradise",
+      "author_name": {
+        "bn": "মিজানুর রহমান আজহারী",
+        "en": "Mizanur Rahman Azhari"
+      },
+      "author_name_bn": "মিজানুর রহমান আজহারী",
+      "author_name_en": "Mizanur Rahman Azhari",
+      "category": {
+        "bn": "মিজানুর রহমান আজহারী",
+        "en": "Mizanur Rahman Azhari"
+      },
+      "category_bn": "মিজানুর রহমান আজহারী",
+      "category_en": "Mizanur Rahman Azhari",
+      "category_id": "mizanur_rahman_azhari",
+      "topic_bn": "সাহাবাদের ঈমানী জিন্দেগী ও জান্নাতের আকাঙ্ক্ষা",
+      "topic_en": "Faith of the Sahabah & Yearning for Paradise",
+      "duration": "19:12",
+      "duration_seconds": 1152,
+      "file_name": "jannater_jonno_pagol_howa_ek_ansari_sahabar_ghotona.mp3",
+      "original_file_name": "জান্নাতের জন্য পাগল হওয়া এক আনসারী সাহাবার ঘটনা.mp3",
+      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/jannater_jonno_pagol_howa_ek_ansari_sahabar_ghotona.mp3",
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/jannater_jonno_pagol_howa_ek_ansari_sahabar_ghotona.mp3",
+      "size_bytes": 16269890,
+      "size_formatted": "15.52 MB",
+      "file_available": true
+    },
+    {
+      "id": "mra_002",
       "title": {
         "bn": "সুন্দর চরিত্রের গুরুত্ব ও আখলাক",
         "en": "Importance of Noble Character and Akhlaq"
@@ -938,10 +978,11 @@
       "duration_seconds": 2535,
       "file_name": "sundor_choritrer_gurutto.mp3",
       "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/sundor_choritrer_gurutto.mp3",
-      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/sundor_choritrer_gurutto.mp3"
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/sundor_choritrer_gurutto.mp3",
+      "file_available": false
     },
     {
-      "id": "mra_002",
+      "id": "mra_003",
       "title": {
         "bn": "তওবা ও ইস্তিগফারের অলৌকিক শক্তি",
         "en": "The Miraculous Power of Tawbah and Istighfar"
@@ -967,10 +1008,11 @@
       "duration_seconds": 2320,
       "file_name": "tawba_o_istighfarer_shokti.mp3",
       "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/tawba_o_istighfarer_shokti.mp3",
-      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/tawba_o_istighfarer_shokti.mp3"
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/tawba_o_istighfarer_shokti.mp3",
+      "file_available": false
     },
     {
-      "id": "mra_003",
+      "id": "mra_004",
       "title": {
         "bn": "পবিত্র কুরআন ও জীবনের সঠিক পথনির্দেশ",
         "en": "The Holy Quran and Guidance for Life"
@@ -996,10 +1038,11 @@
       "duration_seconds": 2710,
       "file_name": "quran_o_jiboner_pothnirdesh.mp3",
       "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/quran_o_jiboner_pothnirdesh.mp3",
-      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/quran_o_jiboner_pothnirdesh.mp3"
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/quran_o_jiboner_pothnirdesh.mp3",
+      "file_available": false
     },
     {
-      "id": "mra_004",
+      "id": "mra_005",
       "title": {
         "bn": "পিতামাতার প্রতি সদ্ব্যবহার ও দায়িত্ব",
         "en": "Kindness and Duties Towards Parents"
@@ -1025,10 +1068,11 @@
       "duration_seconds": 2125,
       "file_name": "pitamatar_proti_shodbabohar.mp3",
       "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/pitamatar_proti_shodbabohar.mp3",
-      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/pitamatar_proti_shodbabohar.mp3"
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/pitamatar_proti_shodbabohar.mp3",
+      "file_available": false
     },
     {
-      "id": "mra_005",
+      "id": "mra_006",
       "title": {
         "bn": "সালাতে একাগ্রতা ও খুশু অর্জনের উপায়",
         "en": "Attaining Focus and Khushu in Salah"
@@ -1054,10 +1098,11 @@
       "duration_seconds": 1790,
       "file_name": "salate_ekagroter_upay.mp3",
       "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/salate_ekagroter_upay.mp3",
-      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/salate_ekagroter_upay.mp3"
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/salate_ekagroter_upay.mp3",
+      "file_available": false
     },
     {
-      "id": "mra_006",
+      "id": "mra_007",
       "title": {
         "bn": "হতাশা ও দুশ্চিন্তা মুক্তির ইসলামী সমাধান",
         "en": "Islamic Solutions for Anxiety and Depression"
@@ -1083,7 +1128,8 @@
       "duration_seconds": 2235,
       "file_name": "hotasha_muktir_upay.mp3",
       "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/mizanur_rahman_azhari/hotasha_muktir_upay.mp3",
-      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/hotasha_muktir_upay.mp3"
+      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/mizanur_rahman_azhari/hotasha_muktir_upay.mp3",
+      "file_available": false
     },
     {
       "id": "tm_001",
@@ -1581,38 +1627,6 @@
     {
       "id": "ata_001",
       "title": {
-        "bn": "জান্নাতের জন্য পাগল হওয়া এক আনসারী সাহাবার ঘটনা",
-        "en": "The Story of an Ansari Sahabi Who Yearned for Paradise"
-      },
-      "title_bn": "জান্নাতের জন্য পাগল হওয়া এক আনসারী সাহাবার ঘটনা",
-      "title_en": "The Story of an Ansari Sahabi Who Yearned for Paradise",
-      "author_name": {
-        "bn": "আবু ত্বহা মুহাম্মদ আদনান",
-        "en": "Abu Toha Muhammad Adnan"
-      },
-      "author_name_bn": "আবু ত্বহা মুহাম্মদ আদনান",
-      "author_name_en": "Abu Toha Muhammad Adnan",
-      "category": {
-        "bn": "আবু ত্বহা মুহাম্মদ আদনান",
-        "en": "Abu Toha Muhammad Adnan"
-      },
-      "category_bn": "আবু ত্বহা মুহাম্মদ আদনান",
-      "category_en": "Abu Toha Muhammad Adnan",
-      "category_id": "abu_toha_adnan",
-      "topic_bn": "সাহাবাদের ঈমানী জিন্দেগী ও জান্নাতের আকাঙ্ক্ষা",
-      "topic_en": "Faith of the Sahabah & Yearning for Paradise",
-      "duration": "19:12",
-      "duration_seconds": 1152,
-      "file_name": "jannater_jonno_pagol_howa_ek_ansari_sahabar_ghotona.mp3",
-      "audio_url": "https://cdn.jsdelivr.net/gh/riadmonir/Islamic-Lecture@main/abu_toha_adnan/jannater_jonno_pagol_howa_ek_ansari_sahabar_ghotona.mp3",
-      "fallback_url": "https://raw.githubusercontent.com/riadmonir/Islamic-Lecture/main/abu_toha_adnan/jannater_jonno_pagol_howa_ek_ansari_sahabar_ghotona.mp3",
-      "size_bytes": 16269890,
-      "size_formatted": "15.52 MB",
-      "file_available": true
-    },
-    {
-      "id": "ata_002",
-      "title": {
         "bn": "বর্তমান ফেতনার যুগ ও ঈমান রক্ষার মোক্ষম উপায়",
         "en": "The Age of Fitnah and Protecting Our Faith"
       },
@@ -1641,7 +1655,7 @@
       "file_available": false
     },
     {
-      "id": "ata_003",
+      "id": "ata_002",
       "title": {
         "bn": "শেষ জামানার দাজ্জাল ও কিয়ামতের পূর্বপ্রস্তুতি",
         "en": "Dajjal and Signs of the End Times"
@@ -1671,7 +1685,7 @@
       "file_available": false
     },
     {
-      "id": "ata_004",
+      "id": "ata_003",
       "title": {
         "bn": "যুবসমাজের তওবা ও জীবনের মোড় পরিবর্তন",
         "en": "Repentance of Youth and Turning Point of Life"
@@ -1689,7 +1703,7 @@
         "en": "Abu Toha Muhammad Adnan"
       },
       "category_bn": "আবু ত্বহা মুহাম্মদ আদনান",
-      "category_en": "Abu Toha মুহাম্মদ আদনান",
+      "category_en": "Abu Toha Muhammad Adnan",
       "category_id": "abu_toha_adnan",
       "topic_bn": "তওবা ও হেদায়েত",
       "topic_en": "Repentance & Guidance",

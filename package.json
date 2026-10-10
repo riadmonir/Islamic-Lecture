@@ -1,0 +1,17 @@
+{
+  "name": "islamic-lecture",
+  "version": "1.0.0",
+  "description": "DeenOne Islamic Audio Lecture CDN & Database",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "keywords": [
+    "deenone",
+    "islamic-lecture",
+    "audio-cdn",
+    "cloudflare-pages"
+  ],
+  "author": "Riad Monir",
+  "license": "MIT"
+}
